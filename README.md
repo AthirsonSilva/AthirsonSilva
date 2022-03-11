@@ -16,6 +16,7 @@
     <img margin="auto 20px auto 20px" align="center" alt="Php" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
     <img margin="auto 20px auto 20px" align="center" alt="SQL" height="60" width="70" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
     <img margin="auto 20px auto 20px" align="center" alt="SQL" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
   
 - 👋 Hi there, my name is Athirson Silva, and i'm studying to be a software developer
