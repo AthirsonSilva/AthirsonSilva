@@ -43,7 +43,7 @@
  [![Athirson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=athirsonsilva&bg_color=30,000000,565957&&title_color=fff&text_color=fff)](https://github.com/athirsonsilva/github-readme-stats)
   
  
-![github contribution grid snake animation](https://raw.githubusercontent.com/AthirsonSilva/AthirsonSilva/output/github-contribution-grid-snake.gif) 
+![github contribution grid snake animation](https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg) 
 [![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)](https://github.com/athirsonsilva/github-readme-activity-graph)
 
 
