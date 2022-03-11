@@ -33,7 +33,7 @@
   <a href="https://www.linkedin.com/in/athirson-s-a7723a191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
-![github contribution grid snake animation](https://raw.githubusercontent.com/AthirsonSilva/AthirsonSilva/output/github-contribution-grid-snake.svg)
+<!-- ![github contribution grid snake animation](https://raw.githubusercontent.com/AthirsonSilva/AthirsonSilva/blob/output/github-contribution-grid-snake.gif) -->
 [![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=react-dark&hide_border=true&area=true&bgcolor="#ff002b")](https://github.com/athirsonsilva/github-readme-activity-graph)
 
 
