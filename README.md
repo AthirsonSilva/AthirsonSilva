@@ -4,9 +4,9 @@
 
 <div display="inline-block">
 
- ![Athirson's Github Stats](https://github-readme-stats.vercel.app/api?username=athirsonsilva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ ![Athirson's Github Stats](https://github-readme-stats.vercel.app/api?username=athirsonsilva&bg_color=30,000000,565957&&title_color=fff&text_color=fff)
  
- ![Athirson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+ ![Athirson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&&layout=compact&langs_count=10&bg_color=30,000000,565957&title_color=fff&text_color=fff)
  
 </div>  
   
@@ -40,11 +40,11 @@
   <a href="https://www.linkedin.com/in/athirson-s-a7723a191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
   
- [![Athirson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=athirsonsilva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/athirsonsilva/github-readme-stats)
+ [![Athirson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=athirsonsilva&bg_color=30,000000,565957&&title_color=fff&text_color=fff)](https://github.com/athirsonsilva/github-readme-stats)
   
  
 ![github contribution grid snake animation](https://raw.githubusercontent.com/AthirsonSilva/AthirsonSilva/output/github-contribution-grid-snake.gif) 
-[![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide_border=true&area=true&bgcolor="#ff002b")](https://github.com/athirsonsilva/github-readme-activity-graph)
+[![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)](https://github.com/athirsonsilva/github-readme-activity-graph)
 
 
 
