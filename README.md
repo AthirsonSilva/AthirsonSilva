@@ -3,7 +3,7 @@
 </header>
 <div align="center">
   <a href="https://github.com/athirsonsilva">
-  <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="500em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
@@ -31,8 +31,10 @@
   <a href="mailto:athirsonarceus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23DD0031?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/Athirson#0287/"><img src="https://img.shields.io/badge/-Discord-%23DD90?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/athirson-s-a7723a191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-
   
+ 
+![github contribution grid snake animation](https://raw.githubusercontent.com/AthirsonSilva/AthirsonSilva/output/github-contribution-grid-snake.svg)
+[![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=react-dark)](https://github.com/athirsonsilva/github-readme-activity-graph)
 
 
 
