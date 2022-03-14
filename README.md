@@ -6,7 +6,7 @@
 
  ![Athirson's Github Stats](https://github-readme-stats.vercel.app/api?username=athirsonsilva&bg_color=30,000000,565957&&title_color=fff&text_color=fff)
  
- ![Athirson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&&layout=compact&langs_count=10&bg_color=30,000000,565957&title_color=fff&text_color=fff)
+ ![Athirson's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&hide=jupyter%20notebook&layout=compact&langs_count=10&bg_color=30,000000,565957&title_color=fff&text_color=fff)
  
 </div>  
   
