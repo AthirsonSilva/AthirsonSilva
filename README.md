@@ -26,24 +26,16 @@
     <img margin="auto 20px auto 20px" align="center" alt="jupyter" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
 </div>
 
-- 👋 Hi there, my name is Athirson Silva, and i'm studying to be a software developer
+- 👋 Hi there, my name is Athirson Silva, and i'm studying to be a software developer.
 - 📫 I have knowledge in JavaScript, Node.js, Python, Pandas, selenium and other data science/ web automation Python libraries
-- 📫 I have deep interest in data science, artificial intelligence and machile learning, but i also have knowledge in web full=stack, mobile dev and dba
+- 📫 I have deep interest in data science, artificial intelligence, machile learning, and processes-automation
+- 📫 I also have knowledge in web full-stack with PHP/ Node.js, mobile and back-end development with Java and SQL.
 - 🔭 I’m currently studying analysis and systems development at "Universidade Nove de Julho (UNINOVE)"
 - 🔭 I’m also studying systems development at "ETEC de Guaianazes" 
-- 🌱 I’m currently learning Web development full-stack with Python and JavaScript
+- 🌱 I’m currently learning Python for data-science and process automation.
 - 📫 How to reach me: AthirsonArceus@gmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/athirson-s-a7723a191/
   
   <a href="mailto:athirsonarceus@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23DD0031?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://discord.com/users/Athirson#0287/"><img src="https://img.shields.io/badge/-Discord-000?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/athirson-s-a7723a191/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
-  
-
-  
- 
-
-
-
-
