@@ -5,7 +5,7 @@
 <div align="center">
   <a href="https://github.com/AthirsonSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?&bg_color=30,000000,565957&username=athirsonsilva&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=fff&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=30,000000,565957&username=athirsonsilva&hide=jupyter%20notebook,html,css,powershell&layout=compact&langs_count=4&theme=dracula&title_color=fff&text_color=fff">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?bg_color=30,000000,565957&username=athirsonsilva&hide=jupyter%20notebook,html,css,powershell&layout=compact&langs_count=2&theme=dracula&title_color=fff&text_color=fff">
 </div>
   
 <!--
