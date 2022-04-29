@@ -39,12 +39,12 @@
 </div>
 
 - 👋 Hi there, my name is Athirson Silva, and i'm studying to be a software developer.
-- 📫 I have knowledge in JavaScript, Node.js, Python, Pandas, selenium and other data science/ web automation Python libraries
-- 📫 I have deep interest in data science, artificial intelligence, machile learning, and processes-automation
+- 📫 I have knowledge in JavaScript, Node.js, Python, Pandas, Numpy, Seaborn and other data science/ machine-learning Python libraries
+- 📫 I have deep interest in data science, artificial intelligence, machile learning, and data analysis
 - 📫 I also have knowledge in web full-stack with PHP/ Node.js, mobile and back-end development with Java and SQL.
 - 🔭 I’m currently studying analysis and systems development at "Universidade Nove de Julho (UNINOVE)"
 - 🔭 I’m also studying systems development at "ETEC de Guaianazes" 
-- 🌱 I’m currently learning Python for web-development, desktop/ mobile app development, process automation, games and data-science.
+- 🌱 I’m currently learning Python for data-science/ data-analysis and machine-learning.
 - 📫 How to reach me: AthirsonArceus@gmail.com
 - 📫 How to reach me: https://www.linkedin.com/in/athirson-s-a7723a191/
   
