@@ -32,9 +32,10 @@
   <img margin="auto 20px auto 20px" align="center" alt="Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="Tensorflow" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+  <br>
   <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
