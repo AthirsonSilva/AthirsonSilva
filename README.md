@@ -9,10 +9,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=athirsonsilva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=00ffe5&text_color=fff">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=athirsonsilva&hide=jupyter%20notebook,hack&layout=compact&langs_count=10&theme=chartreuse-dark&title_color=00ffe5&text_color=fff">
 </div>
-
-<!--<div align='center' width='100%>
-[![Athirson's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=athirsonsilva&layout=compact&&bg_color=30,000000,565957&&title_color=fff&text_color=fff)](https://github.com/athirsonsilva/github-readme-stats) 
-</div>-->
      
      
 <br><br>
@@ -20,8 +16,7 @@
   
 <div align='center' width='100%'>
   
-[![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)](https://github.com/athirsonsilva/github-readme-activity-graph)
- ![github contribution grid snake animation](https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg) 
+[![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)]
   
  </div>
   
