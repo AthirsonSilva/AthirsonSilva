@@ -16,7 +16,7 @@
   
 <div align='center' width='100%'>
   
-[![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)]
+![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)
   
  </div>
   
@@ -30,8 +30,6 @@
     <img margin="auto 20px auto 20px" align="center" alt="Tensorflow" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
   <br>
   <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
 
 <br><br><br>
