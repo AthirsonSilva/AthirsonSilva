@@ -23,12 +23,29 @@
  <br><br><br>
  # <h1 align="center">  Technologies: </h1>
 
+# <h2 align="center">  Data science: </h2>
 <div align='center'>
-  <img margin="auto 20px auto 20px" align="center" alt="Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img margin="auto 20px auto 20px" align="center" alt="Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+  
   <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+  
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="Tensorflow" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original-wordmark.svg" />
+  
+  <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 </div>
+
+# <h2 align="center">  Software engineering: </h2>
+<div align='center'>
+  <img margin="auto 20px auto 20px" align="center" alt="Typescript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+
+  <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+ 
+  
+  <img margin="auto 20px auto 20px" align="center" alt="Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  
+  <img margin="auto 20px auto 20px" align="center" alt="Php" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+</div>
+
 
 <br><br><br>
 # <h1 align="center">  About me: </h1>
