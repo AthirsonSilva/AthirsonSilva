@@ -5,9 +5,12 @@
 </header>
 
 <div align="center">
+
   <a href="https://github.com/AthirsonSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?&username=athirsonsilva&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true&title_color=00ffe5&text_color=fff">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?&username=athirsonsilva&hide=jupyter%20notebook,hack, css, html&layout=compact&langs_count=10&theme=chartreuse-dark&title_color=00ffe5&text_color=fff">
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&theme=chartreuse-dark&title_color=00ffe5&langs_count=10&hide=jupyter%20notebook,makefile,css,html,cmake,hack,shell)](https://github.com/anuraghazra/github-readme-stats)
+  
 </div>
      
      
