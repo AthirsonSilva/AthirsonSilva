@@ -57,7 +57,7 @@
   
 - 📫 I have knowledge in JavaScript, Node.js, Python, Pandas, Numpy, Seaborn and other data science/ machine-learning Python libraries
   
-- 📫 I have deep interest in data science, artificial intelligence, machile learning, and data analysis
+- 📫 I have interest in data science, artificial intelligence, machile learning, and data analysis
   
 - 📫 I also have knowledge in web full-stack with PHP/ Node.js, mobile and back-end development with Java and SQL.
   
