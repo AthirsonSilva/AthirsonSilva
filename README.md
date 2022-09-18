@@ -37,6 +37,8 @@
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+  
 </div>
 
 # <h2 align="center">  Software engineering: </h2>
