@@ -35,7 +35,8 @@
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
   
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  
+  <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
 </div>
 
 # <h2 align="center">  Software engineering: </h2>
@@ -57,11 +58,11 @@
 
   <img margin="auto 20px auto 20px" align="center" alt="Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Php" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" />
     <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+        
 
 
 <br><br><br>
