@@ -193,7 +193,7 @@ Student in Administration Technical education \
 **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
 [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
 Student in System Development Technical education \
-<i>Feb. 2019</i> - <i>Dec. 2021</i>
+<i>Feb. 2019</i> - <i>currently now...</i>
 <br/>
 
 ###
