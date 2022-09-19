@@ -126,13 +126,13 @@
 <i>Feb. 2022</i> - <i>currently now...</i>
 <br/>
 
-<a href="https://github.com/athirsonsilva/qrcode-reader"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="94" height="94" alt="third-project"/></a>
+<a href="https://github.com/athirsonsilva/qrcode-reader"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="left" width="94" height="94" alt="third-project"/></a>
 **LanderLanStoreBruh (Etec) - Etec de Guaianazes - SP - PW3 (Web development III)** \
 `Full-stack developer` \
 <i>Aug. 2022</i> - <i>currently now...</i>
 <br/>
 
-<a href="https://github.com/glauberperez/landerlanstorebruh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="left" width="94" height="94" alt="fourth-project"/></a>
+<a href="https://github.com/glauberperez/landerlanstorebruh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="94" height="94" alt="fourth-project"/></a>
 **QRcode Reader (Etec) - Etec de Guaianazes - (Guaianazes - SP) - PAM2 (Mobile applications development II)** \
 `Full-stack developer` \
 <i>Aug. 2022</i> - <i>currently now...</i>
