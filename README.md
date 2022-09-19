@@ -105,12 +105,14 @@
 
 <br><br>
 
-## 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
-     
+ 
+  # <h1> My Projects </h1>
+ <div align='center'>
+<a align='center' href="https://github.com/ancient-softwares/next-meal-web" target="_blank"> <img alt="next-meal-web" src="./assets/code.png" height="68" align="left"> </a>
+<a align='center' href="https://github.com/ancient-softwares/next-meal" target="_blank"> <img alt="next-meal" src="./assets/code.png"  height="68" align="left"> </a>
+<a align='center' href="https://github.com/glauberperez/landerlanstorebruh" target="_blank"> <img alt="landerlanstorebruh" src="./assets/code.png" height="68" align="left"> </a>
+<a align='center' href="https://github.com/athirsonsilva/qrcode-reader" target="_blank"> <img alt="qrcode-reader" src="./assets/code.png" height="68" align="left"> </a>
+  </div>
      
 <br><br>
 # <h1 align="center">  Activity: </h1>
