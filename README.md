@@ -1,3 +1,19 @@
+<!--
+❗ ➤ References used in this Repository:
+🔗 • https://github.com/kyechan99/capsule-render
+🔗 • https://github.com/antonkomarev/github-profile-views-counter
+🔗 • https://github.com/DenverCoder1/custom-icon-badges
+🔗 • https://github.com/DenverCoder1/github-readme-streak-stats
+🔗 • https://github.com/anuraghazra/github-readme-stats
+🔗 • https://github.com/alexandresanlim/Badges4-README.md-Profile
+🔗 • https://profilepicturemaker.com
+🔗 • https://devicon.dev
+🔗 • https://shields.io
+🔗 • https://emoji.gg
+🔗 • https://getemoji.com
+🔗 • https://github.com/juletopi/juletopi
+-->
+
 # <h1 align="center">  Coding: </h1>
 
 <header>
@@ -113,19 +129,31 @@
 
 ###
 
-<a href="https://www.uninove.br/"><img src="https://www.uninove.br/logo-uninove.svg" align="left" width="94" height="94" alt="IFRO-pic"/></a>
 
 <div align='justify'>
 
+<a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
 **UNINOVE (Universidade Nove de Julho) - Polo Memorial (Barra-funda/ SP) - Remoto/ EaD** \
 [**UNINOVE - Polo Memorial (EaD)**](https://www.uninove.br/) • `Private University` \
 Graduation in System Analysis and Development \
 <i>Jul. 2021</i> - <i>currently now...</i>
 <br/>
 
-<a href="https://www.uninove.br/"><img src="https://www.uninove.br/logo-uninove.svg" align="left" width="94" height="94" alt="IFRO-pic"/></a>
+<a href="https://www.escol.as/192529-cosme-de-faria-major"><img src="./assets/major.jpg" align="left" width="94" height="94" alt="MAJOR-pic"/></a>
+**E.E. Major Cosme de Faria (Escola Estadual Major Cosme De Faria) Guaianazes - SP** \
+[**E.E. Major Cosme de Faria**](https://www.escol.as/192529-cosme-de-faria-major) • `School & High School` \
+Student in School and High School \
+<i>Feb. 2014</i> - <i>Dec. 2019</i>
+<br/>
 
+<a href="https://www.escol.as/192529-cosme-de-faria-major"><img src="./assets/major.jpg" align="left" width="94" height="94" alt="MAJOR-pic"/></a>
+**E.E. Major Cosme de Faria (Escola Estadual Major Cosme De Faria) Guaianazes - SP** \
+[**E.E. Major Cosme de Faria**](https://www.escol.as/192529-cosme-de-faria-major) • `School & High School` \
+Student in School and High School \
+<i>Feb. 2014</i> - <i>Dec. 2019</i>
+<br/>
 
+<a href="https://www.escol.as/192529-cosme-de-faria-major"><img src="./assets/major.jpg" align="left" width="94" height="94" alt="MAJOR-pic"/></a>
 **E.E. Major Cosme de Faria (Escola Estadual Major Cosme De Faria) Guaianazes - SP** \
 [**E.E. Major Cosme de Faria**](https://www.escol.as/192529-cosme-de-faria-major) • `School & High School` \
 Student in School and High School \
