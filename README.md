@@ -14,11 +14,12 @@
 🔗 • https://github.com/juletopi/juletopi
 -->
 
-<img align="left" src="https://komarev.com/ghpvc/?username=juletopi&color=red" alt="Juletopi-profileviews">
+<img align="left" src="https://komarev.com/ghpvc/?username=athirsonsilva&color=red" alt="athirsonsilva-profileviews">
 &#8196;
 <div>
 
-<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me.png" align="left" width="380" alt="AboutMe-pic"/></a>
+<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="380" alt="AboutMe-pic"/></a>
+
 <h1>About me</h1>
 
 ###
@@ -28,15 +29,27 @@
 ###
 
 ### 👋 Hi there, my name is Athirson Silva, and i'm studying to be a software engineer.
+
 **▸** 🔭 I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"
+
 **▸** 🔭 I’m also studying systems development at "ETEC de Guaianazes" 
+
 **▸** 📫 I have interest in data science, artificial intelligence, machile learning, and data analysis
+
 **▸** 📫 I also have knowledge in mobile and web full-end development with Java, React-native, Node.js, Express.js, Nest.js, Python, php and SQL./  
- 
+
+<br>
+
+
 👾 **▸ About my hobbies, I like:**
 
 🎮 `Games` • 📚 `Learning` \
-&#8199;&#8199;&#8199;&#8199;&#8199;&#8196; 🎧 `Music` • 🍜 `Anime/ Manga`
+ 🎧 `Music` • 🍜 `Anime/ Manga`
+ 
+<br> 
+
+<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="380" alt="AboutMe-pic"/></a>
+
  
 🤓 **▸ In what I study for now:**
  
@@ -50,6 +63,7 @@
 - Desktop development
 - Data science
 
+<br>
 ### 💬 Socials & Contacts:
 
 <div align='left'>
