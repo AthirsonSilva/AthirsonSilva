@@ -82,7 +82,7 @@
 
 <br><br><br>
 # <h1 align="center">  About me: </h1>
-  
+<div align='justify'>
 - 👋 Hi there, my name is Athirson Silva, and i'm studying to be a software developer.
   
 - 📫 I have knowledge in JavaScript, Node.js, Python, Pandas, Numpy, Seaborn and other data science/ machine-learning Python libraries
@@ -102,6 +102,7 @@
 - 📫 How to reach me: https://www.linkedin.com/in/athirson-s-a7723a191/
   
  <br><br>
+  </div>
 # <h1 align="center">  Contact me: </h1>
  
  <div align='center'>
