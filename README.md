@@ -18,6 +18,11 @@
 &#8196;
 <div>
 
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<p>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hi-%20there%20my%20name%20is%20Athirson%20Silva%20and%20i%20am%20studying%20to%20be%20a%20software%20engineer&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
+</p>
+
 <a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="380" alt="AboutMe-pic"/></a>
 
 <h1>About me</h1>
@@ -28,7 +33,7 @@
 
 ###
 
-### 👋 Hi there, my name is Athirson Silva, and i'm studying to be a software engineer.
+###  Hi there, my name is Athirson Silva, and i'm studying to be a software engineer.
 
 **▸** 🔭 I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"
 
@@ -81,12 +86,12 @@
   
 <div align="center">
 <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" width="480" alt="Juletopi-stats"></a>
-<a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a>  
+   <a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
     
 <div align="center">
-<a href="#"><img src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="JuletopiStreak-stats"></a>
+<a href="#"><img width='50%' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="JuletopiTopLangs-stats"></a> 
 </div>  
-  
+
   
   <br><br>
   
@@ -98,7 +103,13 @@
 </div>
 <!---======================================================================================================================================================--->
 
+<br><br>
 
+## 🛠️ My Projects
+<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
+<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
      
      
 <br><br>
