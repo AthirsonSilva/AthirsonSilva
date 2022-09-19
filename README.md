@@ -65,7 +65,20 @@
         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
          <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
         
+<br><br>
+<!---======================================================================= Github Stats =================================================================--->
+<div>
+  <div align="center">
+    <img src="./profile-3d-contrib/profile-night-view.svg" />
+    <br><br><br><br>
+</div>
+<!---======================================================================================================================================================--->
 
+
+
+<a href="#">
+  <img src="https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg"></img>
+</a>
 
 <br><br><br>
 # <h1 align="center">  About me: </h1>
