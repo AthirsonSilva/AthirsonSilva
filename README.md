@@ -40,6 +40,7 @@
 
 <br>
 
+<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/another-me-rounded.png" align="left" width="380" alt="AboutMe-pic"/></a>
 
 👾 **▸ About my hobbies, I like:**
 
@@ -48,9 +49,6 @@
  
 <br> 
 
-<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="380" alt="AboutMe-pic"/></a>
-
- 
 🤓 **▸ In what I study for now:**
  
 - Algorithms & Programming Logic
@@ -64,7 +62,8 @@
 - Data science
 
 <br>
-### 💬 Socials & Contacts:
+
+💬 **▸ Socials & Contacts:**
 
 <div align='left'>
     <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/athirson-s-a7723a191/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
@@ -161,13 +160,8 @@
        
 
 <br><br><br>
-# <h1 align="center">  About me: </h1>
-<div align='justify'>
 
- <br><br>
-  </div>
-  
-  # Education
+# Education
 
 ###
 
