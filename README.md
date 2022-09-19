@@ -34,9 +34,9 @@
 
 **▸** 🔭 I’m also studying systems development at "ETEC de Guaianazes" 
 
-**▸** 📫 I have interest in data science, artificial intelligence, machile learning, and data analysis
+**▸** 📫 I have interest in data science, artificial intelligence, machine-learning, and data analysis
 
-**▸** 📫 I also have knowledge in mobile and web full-end development with Java, React-native, Node.js, Express.js, Nest.js, Python, php and SQL./  
+**▸** 📫 I also have knowledge in mobile and web full-end development with Java, React-native, Node.js, Express.js, Nest.js, Python, php and SQL. 
 
 <br>
 
