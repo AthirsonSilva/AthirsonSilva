@@ -11,7 +11,20 @@
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&theme=chartreuse-dark&title_color=00ffe5&langs_count=6&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell)](https://github.com/anuraghazra/github-readme-stats)
   
+       
 </div>
+  
+  <br><br>
+  
+<!---======================================================================= Github Stats =================================================================--->
+<div>
+  <div margin='10px auto auto 5px' align="center">
+    <img src="./profile-3d-contrib/profile-night-view.svg" />
+    <br><br><br><br>
+</div>
+<!---======================================================================================================================================================--->
+
+
      
      
 <br><br>
@@ -22,6 +35,12 @@
 ![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)
   
  </div>
+  
+<div align='center'>
+  <a href="#">
+    <img src="https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg"></img>
+  </a>
+</div> 
   
  <br><br><br>
  # <h1 align="center">  Technologies: </h1>
@@ -64,21 +83,7 @@
         <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
          <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-        
-<br><br>
-<!---======================================================================= Github Stats =================================================================--->
-<div>
-  <div align="center">
-    <img src="./profile-3d-contrib/profile-night-view.svg" />
-    <br><br><br><br>
-</div>
-<!---======================================================================================================================================================--->
-
-
-
-<a href="#">
-  <img src="https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg"></img>
-</a>
+       
 
 <br><br><br>
 # <h1 align="center">  About me: </h1>
@@ -103,6 +108,7 @@
   
  <br><br>
   </div>
+  
 # <h1 align="center">  Contact me: </h1>
  
  <div align='center'>
