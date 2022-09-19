@@ -18,7 +18,7 @@
 &#8196;
 <div>
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="https://i.pinimg.com/236x/11/8a/83/118a835336b1e8902278e64d71db1438.jpg" align="left" width="380" alt="JulioAboutMe-pic"/></a>
+<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me.png" align="left" width="380" alt="AboutMe-pic"/></a>
 <h1>About me</h1>
 
 ###
