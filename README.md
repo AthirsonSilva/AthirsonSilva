@@ -84,18 +84,18 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='565px' width="440px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='565px' width="400px"/>
   
 <div align="left">
-<a href="#"><img width="440" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
+<a href="#"><img width="420" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
 </div>  
     
 <div align="left">
-<a href="#"><img width='440' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="stats"></a> 
+<a href="#"><img width='420' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="stats"></a> 
 </div>  
 
 <div align='left'>
- <a href="#"><img width='440' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
+ <a href="#"><img width='420' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
 </div>
   
   <br><br>
