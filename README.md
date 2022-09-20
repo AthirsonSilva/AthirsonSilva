@@ -23,7 +23,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hi-%20there%20my%20name%20is%20Athirson%20Silva%20and%20i%20am%20studying%20to%20be%20a%20software%20engineer&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
 </p>
 
-<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="380" alt="AboutMe-pic"/></a>
+<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="360" alt="AboutMe-pic"/></a>
 
 <h1>About me</h1>
 
@@ -45,7 +45,7 @@
 
 <br>
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="./assets/another-me-rounded.png" align="left" width="380" alt="AboutMe-pic"/></a>
+<a href="https://github.com/athirsonsilva"><img align="right" src="./assets/another-me-rounded.png" align="left" width="360" alt="AboutMe-pic"/></a>
 
 👾 **▸ About my hobbies, I like:**
 
@@ -84,7 +84,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='565px' width="480px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='565px' width="440px"/>
   
 <div align="left">
 <a href="#"><img width="440" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
