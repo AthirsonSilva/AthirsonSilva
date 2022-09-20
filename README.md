@@ -84,7 +84,7 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
 
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='640px' width="480px"/>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='565px' width="480px"/>
   
 <div align="left">
 <a href="#"><img width="440" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
@@ -95,7 +95,7 @@
 </div>  
 
 <div align='left'>
- <a href="#"><img widht='440' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
+ <a href="#"><img width='440' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
 </div>
   
   <br><br>
@@ -118,28 +118,24 @@
 **Next Meal for business (ETEC) - Etec de Guaianazes (Guaianazes - SP) - TCC (completion of course work)** \
 `Back-end developer and analyst` \
 <i>Feb. 2022</i> - <i>currently now...</i>
-<br>
 <br/>
 
 <a href="https://github.com/ancient-softwares/next-meal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" radius='50%' align="left" width="94" height="94" alt="second-project"/></a>
 **Next meal (ETEC) - Etec de Guaianazes - (Guaianazes - SP) - TCC (completion of course work)** \
 `Back-end developer, mobile developer and analyst` \
 <i>Feb. 2022</i> - <i>currently now...</i>
-<br>
 <br/>
 
 <a href="https://github.com/athirsonsilva/qrcode-reader"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="left" width="94" height="94" alt="third-project"/></a>
 **LanderLanStoreBruh (Etec) - Etec de Guaianazes - SP - PW3 (Web development III)** \
 `Full-stack developer` \
 <i>Aug. 2022</i> - <i>currently now...</i>
-<br>
 <br/>
 
 <a href="https://github.com/glauberperez/landerlanstorebruh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="94" height="94" alt="fourth-project"/></a>
 **QRcode Reader (Etec) - Etec de Guaianazes - (Guaianazes - SP) - PAM2 (Mobile applications development II)** \
 `Full-stack developer` \
 <i>Aug. 2022</i> - <i>currently now...</i>
-<br>
 <br/>
 
 ###
