@@ -14,8 +14,10 @@
 🔗 • https://github.com/juletopi/juletopi
 -->
 
-<img align="left" src="https://komarev.com/ghpvc/?username=athirsonsilva&color=red" alt="athirsonsilva-profileviews">
-&#8196;
+<div align='center'>
+<img align="center" width='275px' height='75px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
+</div>
+<br>
 <div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
