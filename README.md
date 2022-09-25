@@ -15,7 +15,7 @@
 -->
 
 <div align='center'>
-<img align="center" width='275px' height='75px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
+<img align="center" width='450px' height='75px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
 </div>
 <br>
 <div>
