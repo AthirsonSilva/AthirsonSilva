@@ -250,11 +250,6 @@ Student in System Development Technical education \
 # <h1 align="center">  Contact me: </h1>
 
 <div align="center">
-
-### <a href="https://emoji.gg/emoji/3468_book_n_quill"><img src="https://cdn3.emoji.gg/emojis/3468_book_n_quill.png" width="23" height="23" alt="BooknQuill-emoji"></a>&#160; What am I currently learning?
-<img align="center" src="https://capsule-render.vercel.app/api?type=rect&color=dc4444&height=3&section=header&%20render">
-
-<div align="center">
 &#8196; 
  
 | IDEs & Frameworks: | Languages & Tools: |
