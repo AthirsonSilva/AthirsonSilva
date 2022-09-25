@@ -14,16 +14,18 @@
 🔗 • https://github.com/juletopi/juletopi
 -->
 
-<div align='center'>
-<img align="center" width='450px' height='75px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
-</div>
-<br>
+
 <div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p>
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hi-%20there%20my%20name%20is%20Athirson%20Silva%20and%20i%20am%20studying%20to%20be%20a%20software%20engineer&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
 </p>
+
+<div align='left'>
+<img align="center" width='150px' height='25px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
+</div>
+<br>
 
 <a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="360" alt="AboutMe-pic"/></a>
 
