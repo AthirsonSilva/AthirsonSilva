@@ -75,7 +75,7 @@
 💬 **▸ Socials & Contacts:**
 
 <div align='left'>
-    <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/athirson-s-a7723a191/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/athirson-s-a7723a191/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/athirson.silv4/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/athirson.silva.5891"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
 <a href="mailto:athirsonarceus@gmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
