@@ -12,6 +12,7 @@
 🔗 • https://emoji.gg
 🔗 • https://getemoji.com
 🔗 • https://github.com/juletopi/juletopi
+🔗 • https://github.com/DarkBear0121
 -->
 
 
@@ -257,7 +258,7 @@ Student in System Development Technical education \
 
 </div>
 
-# <h1 align="center">  Contact me: </h1>
+# <h1 align="center">  Tools: </h1>
 
 <div align="center">
 &#8196; 
@@ -267,6 +268,11 @@ Student in System Development Technical education \
 | <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter-badge"></a> &#160; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode-badge"></a> | &#160;&#160; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="35" alt="JavaScript"><a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="35" alt="TypeScript"></a> <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="35" alt="Python"></a> <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="35" alt="PHP-icon"></a></a> <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="35" alt="Java-icon"></a>
 | &nbsp;&#160;&#160; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge"> &#160; </a> <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge"></a>| &#8199;&#8199;&#8199;&#8199;&nbsp; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
 </div>
+
+<div align='center'>
+  <img alt="GIF" src="./assets/coding-dude.gif" height=420>
+</div>
+
 
 ###
 &#8196; 
