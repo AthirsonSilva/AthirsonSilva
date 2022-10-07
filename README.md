@@ -89,6 +89,28 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
+
+
+```python
+#!/usr/bin/python
+# -*- coding: utf-8 -*-
+class SoftwareEngineer:
+    def __init__(self, name, role, language_spoken):
+        self.name = name
+        self.role = role
+        self.language_spoken = language_spoken
+
+    def coding(self):
+        return True
+    
+    def say_hi(msg):
+        return 'Hi, thanks for coming by, hope you found my work interesting'
+
+
+me = SoftwareEngineer('Athirson Silva', 'Software Engineer', ['pt_BR', 'en_US'])
+print(me.say_hi())
+print(me.coding())
+```
   
   
 # <h1 align="center">  Coding: </h1>
