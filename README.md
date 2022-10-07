@@ -133,16 +133,37 @@ print(me.coding())
   
   <br><br>
   
-<!---======================================================================= Github Stats =================================================================--->
-<div>
-  <div margin='10px auto auto 5px' align="center">
-    <img src="./profile-3d-contrib/profile-night-view.svg" />
-    <br><br><br><br>
-</div>
-<!---======================================================================================================================================================--->
+  ```php
+<?php
+namespace AthirsonSilva;
 
-<br><br>
-     
+class About extends Me
+{
+    public function getCurrentWorkplace(): array
+    {
+        return [
+            'workplace' => [
+                'company' => 'Colégio Rio Branco',
+                'position' => 'IT Support intern'         
+            ]
+        ];
+    }
+    public function getDailyKnowledge(): array
+    {
+        return [
+            Php::class,
+            Javascript::class,
+            Java::class,
+            Python::class,
+        ];
+    }
+    public function getFutureGoal(): string
+    {
+        return 'To contribute to open source and become a backend-development expert.';
+    }
+}
+```
+      
 <br><br>
 # <h1 align="center">  Activity: </h1>
   
@@ -157,6 +178,22 @@ print(me.coding())
     <img src="https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg"></img>
   </a>
 </div> 
+
+```java
+  public class Me {
+    public static void main(String[] args) {
+       string msg;
+       
+       msg = sayHi();
+       
+       System.out.println(msg);
+    }
+    
+    public string sayHi() {
+      return 'Hi there!';
+    }
+  }
+```
   
  <br><br><br>
  # <h1 align="center">  Technologies: </h1>
@@ -202,6 +239,36 @@ print(me.coding())
        
 
 <br><br><br>
+
+<div align='left'>
+
+```javascript
+  class Me {
+    constructor(name, ambition) {
+       this.name = name;
+       this.ambition = ambition;
+    }
+    
+    getName = () => {
+      return this.name;
+    }
+    
+    getAmbition = () => {
+      return this.ambition;
+    }
+    
+    setName = (name) => {
+      this.name = name;
+    }
+    
+    setAmbition = (ambition) => {
+      this.ambition = ambition;
+    }
+  }
+```
+
+</div>
+
 
 # Education
 
