@@ -28,8 +28,6 @@
 </div>
 <br>
 
-<a href="https://github.com/athirsonsilva"><img border-radius='50%' align="right" src="./assets/me-rounded.png" align="left" width="360" alt="AboutMe-pic"/></a>
-
 <h1>About me</h1>
 
 ###
@@ -144,42 +142,6 @@ print(me.coding())
 <!---======================================================================================================================================================--->
 
 <br><br>
-
- 
-  # <h1 align='center'> My Projects </h1>
-<div align='justify'>
-
-<a href="https://github.com/ancient-softwares/next-meal-web"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="left" width="94" height="94" alt="first-project"/></a>
-**Next Meal for business (ETEC) - Etec de Guaianazes (Guaianazes - SP) - TCC (completion of course work)** \
-`Back-end developer and analyst` \
-  <br>
-<i>Feb. 2022</i> - <i>currently now...</i>
-<br/>
-
-<a href="https://github.com/ancient-softwares/next-meal"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" radius='50%' align="left" width="94" height="94" alt="second-project"/></a>
-**Next meal (ETEC) - Etec de Guaianazes - (Guaianazes - SP) - TCC (completion of course work)** \
-`Back-end developer, mobile developer and analyst` \
-  <br>
-<i>Feb. 2022</i> - <i>currently now...</i>
-<br/>
-
-<a href="https://github.com/athirsonsilva/qrcode-reader"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" align="left" width="94" height="94" alt="third-project"/></a>
-**LanderLanStoreBruh (Etec) - Etec de Guaianazes - SP - PW3 (Web development III)** \
-`Full-stack developer` \
-  <br>
-<i>Aug. 2022</i> - <i>currently now...</i>
-<br/>
-
-<a href="https://github.com/glauberperez/landerlanstorebruh"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" align="left" width="94" height="94" alt="fourth-project"/></a>
-**QRcode Reader (Etec) - Etec de Guaianazes - (Guaianazes - SP) - PAM2 (Mobile applications development II)** \
-`Full-stack developer` \
-  <br>
-<i>Aug. 2022</i> - <i>currently now...</i>
-<br/>
-
-###
-
-</div>
      
 <br><br>
 # <h1 align="center">  Activity: </h1>
@@ -280,24 +242,6 @@ Student in System Development Technical education \
 
 </div>
 
-# <h1 align="center">  Tools: </h1>
-
-<div align="center">
-&#8196; 
- 
-| IDEs & Frameworks: | Languages & Tools: |
-| ------------------ | ------------------ |
-| <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" alt="Jupyter-badge"></a> &#160; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode-badge"></a> | &#160;&#160; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="35" alt="JavaScript"><a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="35" alt="TypeScript"></a> <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="35" alt="Python"></a> <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="35" alt="PHP-icon"></a></a> <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="50" height="35" alt="Java-icon"></a>
-| &nbsp;&#160;&#160; <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white" alt="GitKraken-badge"> &#160; </a> <a href="https://github.com/alexandresanlim/Badges4-README.md-Profile"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub-badge"></a>| &#8199;&#8199;&#8199;&#8199;&nbsp; <a href="https://devicon.dev/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50" height="35" alt="Git-icon"></a>
-</div>
-
-<div align='center'>
-  <img alt="GIF" src="./assets/coding-dude.gif" height=420>
-</div>
-
-
-###
-&#8196; 
 
 <div align="center">
 <a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="530" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
