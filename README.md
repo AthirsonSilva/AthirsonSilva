@@ -126,18 +126,6 @@ class Me:
 me = Me('Athirson Silva', 'IT Support intern',
         'Colégio Rio Branco', ['pt_BR', 'en_US'])
 
-# Output
-print(me.getName())
-print(me.getRole())
-print(me.getWorkplace())
-print(me.getLanguages())
-
-# Input
-me.setName('Athirson Silva')
-me.setRole('IT Support intern')
-me.setWorkplace('Colégio Rio Branco')
-me.setLanguages(['pt_BR', 'en_US'])
-
 ```
   
 # <h1 align="center">  Coding: </h1>
@@ -289,18 +277,6 @@ const me = new Me(
  'Become a backend developer',
  ['pt_BR', 'en_US']
 );
-
-// Output
-me.getWorkplace();
-me.getAmbition();
-me.getRole();
-me.getLanguages();
-
-// Input
-me.setWorkplace('Colégio Rio Branco');
-me.setAmbition('Contribute to open source projects');
-me.setRole('IT Support intern');
-me.setLanguages(['pt_BR', 'en_US']);
 
 ```
 
