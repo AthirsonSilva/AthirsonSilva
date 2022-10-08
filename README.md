@@ -15,7 +15,6 @@
 🔗 • https://github.com/DarkBear0121
 -->
 
-
 <div>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -36,29 +35,29 @@
 
 ###
 
-###  Hi there, my name is Athirson Silva, and i'm studying to be a software engineer.
+### Hi there, my name is Athirson Silva, and i'm studying to be a software engineer
 
 **▸** 🔭 I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"
 
-**▸** 🔭 I’m also studying systems development at "ETEC de Guaianazes" 
+**▸** 🔭 I’m also studying systems development at "ETEC de Guaianazes"
 
 **▸** 📫 I have interest in data science, artificial intelligence, machine-learning, and data analysis
 
-**▸** 📫 I also have knowledge in mobile and web full-end development with Java, React-native, Node.js, Express.js, Nest.js, Python, php and SQL. 
+**▸** 📫 I also have knowledge in mobile and web full-end development with Java, React-native, Node.js, Express.js, Nest.js, Python, php and SQL.
 
 <br>
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="./assets/another-me-rounded.png" align="left" width="360" alt="AboutMe-pic"/></a>
+<a href="https://github.com/athirsonsilva"><img align="right" src="./assets/another-me-rounded.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
 
 👾 **▸ About my hobbies, I like:**
 
 🎮 `Games` • 📚 `Learning` \
  🎧 `Music` • 🍜 `Anime/ Manga`
- 
-<br> 
+
+<br>
 
 🤓 **▸ In what I study for now:**
- 
+
 - Algorithms & Programming Logic
 - Computer Architectures & Organization
 - Web development
@@ -83,33 +82,61 @@
   
 <div align='center'>
   
-  # ✍️ Random Dev Quote
+# ✍️ Random Dev Quote
+
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
 
-
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
-class SoftwareEngineer:
-    def __init__(self, name, role, language_spoken):
-        self.name = name
-        self.role = role
-        self.language_spoken = language_spoken
+class Me:
+    def __init__(self, name, role, workplace, languages):
+        self.__name = name
+        self.__role = role
+        self.__workplace = workplace
+        self.__languages = languages
 
-    def coding(self):
-        return True
-    
-    def say_hi(msg):
-        return 'Hi, thanks for coming by, hope you found my work interesting'
+    def setName(self, name) -> None:
+        self.__name = name
+
+    def getName(self) -> str:
+        return self.__name
+
+    def setRole(self, role) -> None:
+        self.__role = role
+
+    def getRole(self) -> str:
+        return self.__role
+
+    def setWorkplace(self, workplace) -> None:
+        self.__workplace = workplace
+
+    def getWorkplace(self) -> str:
+        return self.__workplace
+
+    def setLanguages(self, languages) -> None:
+        self.__languages = languages
+
+    def getLanguages(self) -> str:
+        return self.__languages
 
 
-me = SoftwareEngineer('Athirson Silva', 'Software Engineer', ['pt_BR', 'en_US'])
-print(me.say_hi())
-print(me.coding())
+me = Me('Athirson Silva', 'IT Support intern',
+        'Colégio Rio Branco', ['pt_BR', 'en_US'])
+
+# Output
+print(me.getName())
+print(me.getRole())
+print(me.getWorkplace())
+print(me.getLanguages())
+
+# Input
+me.setName('Athirson Silva')
+me.setRole('IT Support intern')
+me.setWorkplace('Colégio Rio Branco')
+me.setLanguages(['pt_BR', 'en_US'])
+
 ```
-  
   
 # <h1 align="center">  Coding: </h1>
 
@@ -122,49 +149,17 @@ print(me.coding())
 <div align="left">
 <a href="#"><img width="400" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
 </div>  
-    
+
 <div align="left">
-<a href="#"><img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="stats"></a> 
+<a href="#"><img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="stats"></a>
 </div>  
 
 <div align='left'>
  <a href="#"><img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
 </div>
   
-  <br><br>
-  
-  ```php
-<?php
-namespace AthirsonSilva;
-
-class About extends Me
-{
-    public function getCurrentWorkplace(): array
-    {
-        return [
-            'workplace' => [
-                'company' => 'Colégio Rio Branco',
-                'position' => 'IT Support intern'         
-            ]
-        ];
-    }
-    public function getDailyKnowledge(): array
-    {
-        return [
-            Php::class,
-            Javascript::class,
-            Java::class,
-            Python::class,
-        ];
-    }
-    public function getFutureGoal(): string
-    {
-        return 'To contribute to open source and become a backend-development expert.';
-    }
-}
-```
-      
 <br><br>
+
 # <h1 align="center">  Activity: </h1>
   
 <div align='center' width='100%'>
@@ -177,28 +172,14 @@ class About extends Me
   <a href="#">
     <img src="https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg"></img>
   </a>
-</div> 
-
-```java
-  public class Me {
-    public static void main(String[] args) {
-       string msg;
-       
-       msg = sayHi();
-       
-       System.out.println(msg);
-    }
-    
-    public string sayHi() {
-      return 'Hi there!';
-    }
-  }
-```
+</div>
   
  <br><br><br>
- # <h1 align="center">  Technologies: </h1>
+
+# <h1 align="center">  Technologies: </h1>
 
 # <h2 align="center">  Data science: </h2>
+
 <div align='center'>
   <img margin="auto 20px auto 20px" align="center" alt="Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   
@@ -214,6 +195,7 @@ class About extends Me
 </div>
 
 # <h2 align="center">  Software engineering: </h2>
+
 <div align='center'>
 
 <h3 align='center'> Front-end </h3><br>
@@ -224,10 +206,7 @@ class About extends Me
         <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-        
-        
 
-  
 <h3 align='center'> Back-end </h3><br>
 
   <img margin="auto 20px auto 20px" align="center" alt="Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -236,44 +215,98 @@ class About extends Me
         <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
          <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-       
 
 <br><br><br>
 
 <div align='left'>
 
-```javascript
-  class Me {
-    constructor(name, ambition) {
-       this.name = name;
-       this.ambition = ambition;
-    }
-    
-    getName = () => {
-      return this.name;
-    }
-    
-    getAmbition = () => {
-      return this.ambition;
-    }
-    
-    setName = (name) => {
-      this.name = name;
-    }
-    
-    setAmbition = (ambition) => {
-      this.ambition = ambition;
-    }
-  }
+```typescript
+ interface IEmployee {
+ getWorkplace(): string;
+ getAmbition(): string;
+ getRole(): string;
+ setWorkplace(workplace: string): void;
+ setAmbition(ambition: string): void;
+ setRole(role: string): void;
+}
+
+class Me {
+ private workplace: string;
+ private role: string;
+ private ambition: string;
+ private languages: string[];
+
+ constructor(
+  workplace: string,
+  role: string,
+  ambition: string,
+  languages: string[]
+ ) {
+  this.workplace = workplace;
+  this.role = role;
+  this.ambition = ambition;
+  this.languages = languages;
+ }
+
+ public getWorkplace = (): string => {
+  return this.workplace;
+ };
+
+ public getAmbition = (): string => {
+  return this.ambition;
+ };
+
+ public getRole = (): string => {
+  return this.role;
+ };
+
+ public getLanguages = (): string[] => {
+  return this.languages;
+ };
+
+ public setWorkplace = (workplace: string): void => {
+  this.workplace = workplace;
+ };
+
+ public setAmbition = (ambition: string): void => {
+  this.ambition = ambition;
+ };
+
+ public setRole = (role: string): void => {
+  this.role = role;
+ };
+
+ public setLanguages = (languages: string[]): void => {
+  this.languages = languages;
+ };
+}
+
+const me = new Me(
+ 'Colégio Rio Branco',
+ 'IT Support intern',
+ 'Become a backend developer',
+ ['pt_BR', 'en_US']
+);
+
+// Output
+me.getWorkplace();
+me.getAmbition();
+me.getRole();
+me.getLanguages();
+
+// Input
+me.setWorkplace('Colégio Rio Branco');
+me.setAmbition('Contribute to open source projects');
+me.setRole('IT Support intern');
+me.setLanguages(['pt_BR', 'en_US']);
+
 ```
 
 </div>
 
-
 # Education
 
 ###
-
 
 <div align='justify'>
 
@@ -309,8 +342,6 @@ Student in System Development Technical education \
 
 </div>
 
-
 <div align="center">
 <a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="530" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
-</div>   
-   
+</div>
