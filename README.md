@@ -46,8 +46,10 @@
 **▸** 📫 I also have knowledge in mobile and web full-end development with Java, React-native, Node.js, Express.js, Nest.js, Python, php and SQL.
 
 <br>
+<br>
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="./assets/another-me-rounded.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
+
+<a href="https://github.com/athirsonsilva"><img align="right" src="./assets/chad_me_rounded.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
 
 👾 **▸ About my hobbies, I like:**
 
