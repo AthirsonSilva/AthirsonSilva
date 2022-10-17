@@ -90,43 +90,79 @@
   
 </div>
 
-```python
-class Me:
-    def __init__(self, name, role, workplace, languages):
-        self.__name = name
-        self.__role = role
-        self.__workplace = workplace
-        self.__languages = languages
+<div align='left'>
 
-    def setName(self, name) -> None:
-        self.__name = name
+```typescript
+ interface IEmployee {
+ getWorkplace(): string;
+ getAmbition(): string;
+ getRole(): string;
+ setWorkplace(workplace: string): void;
+ setAmbition(ambition: string): void;
+ setRole(role: string): void;
+}
 
-    def getName(self) -> str:
-        return self.__name
+class Me {
+ private workplace: string;
+ private role: string;
+ private ambition: string;
+ private languages: string[];
 
-    def setRole(self, role) -> None:
-        self.__role = role
+ constructor(
+  workplace: string,
+  role: string,
+  ambition: string,
+  languages: string[]
+ ) {
+  this.workplace = workplace;
+  this.role = role;
+  this.ambition = ambition;
+  this.languages = languages;
+ }
 
-    def getRole(self) -> str:
-        return self.__role
+ public getWorkplace = (): string => {
+  return this.workplace;
+ };
 
-    def setWorkplace(self, workplace) -> None:
-        self.__workplace = workplace
+ public getAmbition = (): string => {
+  return this.ambition;
+ };
 
-    def getWorkplace(self) -> str:
-        return self.__workplace
+ public getRole = (): string => {
+  return this.role;
+ };
 
-    def setLanguages(self, languages) -> None:
-        self.__languages = languages
+ public getLanguages = (): string[] => {
+  return this.languages;
+ };
 
-    def getLanguages(self) -> str:
-        return self.__languages
+ public setWorkplace = (workplace: string): void => {
+  this.workplace = workplace;
+ };
 
+ public setAmbition = (ambition: string): void => {
+  this.ambition = ambition;
+ };
 
-me = Me('Athirson Silva', 'IT Support intern',
-        'Colégio Rio Branco', ['pt_BR', 'en_US'])
+ public setRole = (role: string): void => {
+  this.role = role;
+ };
+
+ public setLanguages = (languages: string[]): void => {
+  this.languages = languages;
+ };
+}
+
+const me = new Me(
+ 'Colégio Rio Branco',
+ 'IT Support intern',
+ 'Become a backend developer',
+ ['pt_BR', 'en_US']
+);
 
 ```
+
+</div>
   
 # <h1 align="center">  Coding: </h1>
 
@@ -207,80 +243,6 @@ me = Me('Athirson Silva', 'IT Support intern',
          <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 
 <br><br><br>
-
-<div align='left'>
-
-```typescript
- interface IEmployee {
- getWorkplace(): string;
- getAmbition(): string;
- getRole(): string;
- setWorkplace(workplace: string): void;
- setAmbition(ambition: string): void;
- setRole(role: string): void;
-}
-
-class Me {
- private workplace: string;
- private role: string;
- private ambition: string;
- private languages: string[];
-
- constructor(
-  workplace: string,
-  role: string,
-  ambition: string,
-  languages: string[]
- ) {
-  this.workplace = workplace;
-  this.role = role;
-  this.ambition = ambition;
-  this.languages = languages;
- }
-
- public getWorkplace = (): string => {
-  return this.workplace;
- };
-
- public getAmbition = (): string => {
-  return this.ambition;
- };
-
- public getRole = (): string => {
-  return this.role;
- };
-
- public getLanguages = (): string[] => {
-  return this.languages;
- };
-
- public setWorkplace = (workplace: string): void => {
-  this.workplace = workplace;
- };
-
- public setAmbition = (ambition: string): void => {
-  this.ambition = ambition;
- };
-
- public setRole = (role: string): void => {
-  this.role = role;
- };
-
- public setLanguages = (languages: string[]): void => {
-  this.languages = languages;
- };
-}
-
-const me = new Me(
- 'Colégio Rio Branco',
- 'IT Support intern',
- 'Become a backend developer',
- ['pt_BR', 'en_US']
-);
-
-```
-
-</div>
 
 # Education
 
