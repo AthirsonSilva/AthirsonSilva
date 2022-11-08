@@ -43,20 +43,13 @@
 
 **▸** 📫 I have interest in software-engineering, well, back-end development to be more specific.
 
-**▸** 📫 I also have knowledge in mobile and web full-end development with Java, React-native, Node.js, Python, php, Laravel and SQL.
+**▸** 📫 I have knowledge in mobile and web full-stack development with Java, React-native, Node.js, Python, php, Laravel and SQL.
 
 <br>
 <br>
 
 
 <a href="https://github.com/athirsonsilva"><img align="right" src="./assets/chad_me_rounded.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
-
-👾 **▸ About my hobbies, I like:**
-
-🎮 `Games` • 📚 `Learning` \
- 🎧 `Music` • 🍜 `Anime/ Manga`
-
-<br>
 
 🤓 **▸ In what I study for now:**
 
@@ -65,10 +58,6 @@
 - Web development
 - Hibrid mobile applications development
 - Back-end development
-- Cyber-security
-- Embedded systems
-- Desktop development
-- Data science
 
 <br>
 
