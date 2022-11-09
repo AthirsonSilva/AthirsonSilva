@@ -145,46 +145,50 @@ const me = new Me(
   
  <br><br><br>
 
-# <h1 align="center">  Technologies: </h1>
-
-# <h2 align="center">  Data science: </h2>
-
-<div align='center'>
-  <img margin="auto 20px auto 20px" align="center" alt="Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  
-  <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  
-  <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  
-  <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-  
-</div>
-
-# <h2 align="center">  Software engineering: </h2>
+# <h1 align="center">  Technologies and Tools: </h1>
 
 <div align='center'>
 
-<h3 align='center'> Front-end </h3><br>
+  <p>Back-end development</p>
+  
+[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
+[![PHP](https://img.shields.io/badge/-Php-563D7C?logo=php)](#)
+[![Java](https://img.shields.io/badge/-Java-fc7303?logo=java)](#)
+[![Laravel](https://img.shields.io/badge/-Laravel-fc7303?logo=laravel)](#)
+[![Express](https://img.shields.io/badge/-Express-403e3e?logo=express)](#)
+[![NestJS](https://img.shields.io/badge/-Nest.js-fc2c03?logo=nestjs)](#)
+[![NodeJS](https://img.shields.io/badge/-Node.js-aae84d?logo=node.js)](#)
+ <br><br>
+  <p>Embedded Systems</p>
+  
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
+ <br><br>
+  <p>Front-end development</p>
+    
+[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
+[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
+[![React](https://img.shields.io/badge/-React-563D7C?logo=react)](#)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
+[![TypeScript](https://img.shields.io/badge/-Typescript-0362fc?logo=typescript)](#)
+  <br><br>
+  <p>Databases and Data-Science</p>
+  
+[![MySQL](https://img.shields.io/badge/-MySQL-fc7303?logo=mysql)](#)
+[![Pandas](https://img.shields.io/badge/-Pandas-563D7C?logo=pandas)](#)
+[![Numpy](https://img.shields.io/badge/-Numpy-563D7C?logo=numpy)](#)
+[![Jupyter](https://img.shields.io/badge/-Jupyter-cfcfcf?logo=jupyter)](#) 
+  <br><br>
+  <p>Diverses tools</p>
+  
+[![VSCode](https://img.shields.io/badge/-VSCode-13d8ed?logo=visualstudiocode)](#) 
+[![Git](https://img.shields.io/badge/-Git-5e5e5e?logo=git)](#) 
+[![Postman](https://img.shields.io/badge/-Postman-f57e00?logo=postman)](#) 
+[![Arduino](https://img.shields.io/badge/-Arduino-63acb8?logo=arduino)](#) 
+[![Linux](https://img.shields.io/badge/-Linux-5e5e5e?logo=linux)](#) 
 
-  <img margin="auto 20px auto 20px" align="center" alt="Typescript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-
-<h3 align='center'> Back-end </h3><br>
-
-  <img margin="auto 20px auto 20px" align="center" alt="Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Php" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-
+  
 <br><br><br>
 
 # Education
