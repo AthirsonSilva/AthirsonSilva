@@ -19,7 +19,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hi-%20there%20my%20name%20is%20Athirson%20Silva%20and%20i%20am%20studying%20to%20be%20a%20software%20engineer&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=1000"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hello, %20World!&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=10"></a>
 </p>
 
 <div align='left'>
@@ -36,14 +36,13 @@
 ###
 
 ### Hi there, my name is Athirson Silva, and i'm studying to be a software engineer
+<br>
 
 **▸** 🔭 I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"
 
 **▸** 🔭 I’m also studying systems development at "ETEC de Guaianazes"
 
 **▸** 📫 I have interest in software-engineering, well, back-end development to be more specific.
-
-**▸** 📫 I have knowledge in mobile and web full-stack development with Java, React-native, Node.js, Python, php, Laravel and SQL.
 
 <br>
 <br>
@@ -82,70 +81,25 @@
 <div align='left'>
 
 ```typescript
- interface IEmployee {
- getWorkplace(): string;
- getAmbition(): string;
- getRole(): string;
- setWorkplace(workplace: string): void;
- setAmbition(ambition: string): void;
- setRole(role: string): void;
-}
-
 class Me {
- private workplace: string;
  private role: string;
  private ambition: string;
  private languages: string[];
 
  constructor(
-  workplace: string,
   role: string,
   ambition: string,
   languages: string[]
  ) {
-  this.workplace = workplace;
   this.role = role;
   this.ambition = ambition;
   this.languages = languages;
  }
-
- public getWorkplace = (): string => {
-  return this.workplace;
- };
-
- public getAmbition = (): string => {
-  return this.ambition;
- };
-
- public getRole = (): string => {
-  return this.role;
- };
-
- public getLanguages = (): string[] => {
-  return this.languages;
- };
-
- public setWorkplace = (workplace: string): void => {
-  this.workplace = workplace;
- };
-
- public setAmbition = (ambition: string): void => {
-  this.ambition = ambition;
- };
-
- public setRole = (role: string): void => {
-  this.role = role;
- };
-
- public setLanguages = (languages: string[]): void => {
-  this.languages = languages;
- };
 }
 
 const me = new Me(
- 'Colégio Rio Branco',
- 'IT Support intern',
- 'Become a backend developer',
+ 'Backend developer',
+ 'Become a better professional today than i was yesterday',
  ['pt_BR', 'en_US']
 );
 
@@ -183,11 +137,11 @@ const me = new Me(
   
  </div>
   
-<div align='center'>
+<!-- <div align='center'>
   <a href="#">
     <img src="https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg"></img>
   </a>
-</div>
+</div> -->
   
  <br><br><br>
 
