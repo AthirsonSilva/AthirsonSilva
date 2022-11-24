@@ -48,7 +48,7 @@
 <br>
 
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="./assets/chad_me_rounded.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
+<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
 
 🤓 **▸ In what I study for now:**
 
@@ -69,6 +69,8 @@
 <a href="mailto:athirsonarceus@gmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
 <a href="http://api.whatsapp.com/send?phone=5511957607177"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
 </div>
+  
+<br><br>
   
 <div align='center'>
   
