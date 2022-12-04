@@ -79,116 +79,76 @@
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
 </div>
-
-<div align='left'>
-
-```typescript
-class Me {
- private role: string;
- private ambition: string;
- private languages: string[];
-
- constructor(
-  role: string,
-  ambition: string,
-  languages: string[]
- ) {
-  this.role = role;
-  this.ambition = ambition;
-  this.languages = languages;
- }
-}
-
-const me = new Me(
- 'Backend developer',
- 'Become a better professional today than i was yesterday',
- ['pt_BR', 'en_US']
-);
-
-```
-
-</div>
   
 # <h1 align="center">  Coding: </h1>
 
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
-
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='520px' width="400px"/>
   
-<div align="left">
-<a href="#"><img width="400" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
-</div>  
-
-<div align="left">
-<a href="#"><img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="stats"></a>
-</div>  
-
-<div align='left'>
- <a href="#"><img width='400' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
+    
+  <div align='center'>
+ <a href="#"><img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
 </div>
+   
   
-<br><br>
 
-# <h1 align="center">  Activity: </h1>
+<div align="center">
+<a href="#"><img width='500' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="stats"></a>
+</div>  
+
+  </div>
   
-<div align='center' width='100%'>
-  
-![Athirson's github activity graph](https://activity-graph.herokuapp.com/graph?username=athirsonsilva&theme=xcode&line=fff&title_color=fff&text_color=fff&hide_border=true&area=true&bg_color=30,000000,565957)
-  
- </div>
-  
-<!-- <div align='center'>
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/athirsonsilva/athirsonsilva/output/github-contribution-grid-snake.svg"></img>
-  </a>
-</div> -->
+<div align="center">
+<a href="#"><img width="500" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
+</div>  
   
  <br><br><br>
 
-# <h1 align="center">  Technologies and Tools: </h1>
+## <h1 align="center">  Technologies and Tools: </h1>
 
 <div align='center'>
 
-  <p>Back-end development</p>
+# <h2 align="center">  Data science: </h2>
+
+<div align='center'>
+  <img margin="auto 20px auto 20px" align="center" alt="Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+
+  <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+
+  <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
+
+  <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+
   
-[![Python](https://img.shields.io/badge/-Python-yellow?logo=Python)](#)
-[![PHP](https://img.shields.io/badge/-Php-563D7C?logo=php)](#)
-[![Java](https://img.shields.io/badge/-Java-fc7303?logo=java)](#)
-[![Laravel](https://img.shields.io/badge/-Laravel-fc7303?logo=laravel)](#)
-[![Express](https://img.shields.io/badge/-Express-403e3e?logo=express)](#)
-[![NestJS](https://img.shields.io/badge/-Nest.js-fc2c03?logo=nestjs)](#)
-[![NodeJS](https://img.shields.io/badge/-Node.js-aae84d?logo=node.js)](#)
- <br><br>
-  <p>Embedded Systems</p>
-  
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
-[![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white)](#)
- <br><br>
-  <p>Front-end development</p>
-    
-[![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](#)
-[![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3)](#)
-[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?logo=bootstrap)](#)
-[![React](https://img.shields.io/badge/-React-563D7C?logo=react)](#)
-[![JavaScript](https://img.shields.io/badge/-JavaScript-blue?logo=javascript)](#)
-[![TypeScript](https://img.shields.io/badge/-Typescript-0362fc?logo=typescript)](#)
-  <br><br>
-  <p>Databases and Data-Science</p>
-  
-[![MySQL](https://img.shields.io/badge/-MySQL-fc7303?logo=mysql)](#)
-[![Pandas](https://img.shields.io/badge/-Pandas-563D7C?logo=pandas)](#)
-[![Numpy](https://img.shields.io/badge/-Numpy-563D7C?logo=numpy)](#)
-[![Jupyter](https://img.shields.io/badge/-Jupyter-cfcfcf?logo=jupyter)](#) 
-  <br><br>
-  <p>Diverses tools</p>
-  
-[![VSCode](https://img.shields.io/badge/-VSCode-13d8ed?logo=visualstudiocode)](#) 
-[![Git](https://img.shields.io/badge/-Git-5e5e5e?logo=git)](#) 
-[![Postman](https://img.shields.io/badge/-Postman-f57e00?logo=postman)](#) 
-[![Arduino](https://img.shields.io/badge/-Arduino-63acb8?logo=arduino)](#) 
-[![Linux](https://img.shields.io/badge/-Linux-5e5e5e?logo=linux)](#) 
+
+</div>
+
+# <h2 align="center">  Software engineering: </h2>
+
+<div align='center'>
+
+<h3 align='center'> Front-end </h3><br>
+
+  <img margin="auto 20px auto 20px" align="center" alt="Typescript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+
+<h3 align='center'> Back-end </h3><br>
+
+  <img margin="auto 20px auto 20px" align="center" alt="Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Php" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
+         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
 
   
 <br><br><br>
@@ -224,7 +184,7 @@ Student in Administration Technical education \
 **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
 [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
 Student in System Development Technical education \
-<i>Feb. 2019</i> - <i>currently now...</i>
+<i>Feb. 2019</i> - <i>Dec. 2022</i>
 <br/>
 
 ###
