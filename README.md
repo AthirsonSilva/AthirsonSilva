@@ -17,17 +17,17 @@
 
 <div>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p>
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=👋%20Hello, %20World!&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=10"></a>
-</p>
+<div align='center'>
 
-<div align='left'>
-<img align="center" width='150px' height='25px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
+  <a align='right' href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=📫%20Hello, %20World!&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=10"></a>
+  
+<img align='left' width='150px' height='25px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
+
 </div>
+
 <br>
 
-<h1>About me</h1>
+<h1 align='center'>About me</h1>
 
 ###
 
@@ -35,7 +35,6 @@
 
 ###
 
-### Hi there, my name is Athirson Silva, and i'm studying to be a software engineer
 <br>
 
 **▸** 🔭 I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"
@@ -80,77 +79,96 @@
   
 </div>
   
-# <h1 align="center">  Coding: </h1>
+<h1 align="center">  Coding </h1>
 
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
   
-    
-  <div align='center'>
- <a href="#"><img width='500' src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118"/>
 </div>
    
   
-
 <div align="center">
-<a href="#"><img width='500' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118" alt="stats"></a>
-</div>  
-
-  </div>
-  
-<div align="center">
-<a href="#"><img width="500" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0d1017&bg_color=0e1118" alt="stats"></a>
+<a href="#"><img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
 </div>  
   
  <br><br><br>
 
-## <h1 align="center">  Technologies and Tools: </h1>
+###
+
+<h1 align='center'>Technologies and tools</h1>
 
 <div align='center'>
-
-# <h2 align="center">  Data science: </h2>
 
 <div align='center'>
   <img margin="auto 20px auto 20px" align="center" alt="Python" height="90" width="100" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-
   <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-
+   <img margin="auto 20px auto 20px" align="center" alt="PyCharm" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
     <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
     <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
     <img margin="auto 20px auto 20px" align="center" alt="SQL" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
 
-  
+<br>
+
+##
+
+<br>
 
 </div>
 
-# <h2 align="center">  Software engineering: </h2>
-
 <div align='center'>
-
-<h3 align='center'> Front-end </h3><br>
 
   <img margin="auto 20px auto 20px" align="center" alt="Typescript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+   <img margin="auto 20px auto 20px" align="center" alt="React" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />      
+  <img margin="auto 20px auto 20px" align="center" alt="HTML" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="CSS" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Bootstrap" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Gimp" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="PhotoShop" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 
-<h3 align='center'> Back-end </h3><br>
+
+<br>
+
+##
+
+<br>
 
   <img margin="auto 20px auto 20px" align="center" alt="Java" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Php" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
     <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Express" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+        <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />       
 
+</div>
+
+<br>
+
+##
+
+<br>
+
+<div align='center'>
   
+  <img margin="auto 20px auto 20px" align="center" alt="VSCode" height="90" width="100"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Linux" height="90" width="100"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Bash" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Docker" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Git" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Heroku" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="NPM" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="Yarn" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Vim" height="90" width="100" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  
+</div>
+ 
 <br><br><br>
 
 # Education
@@ -191,6 +209,4 @@ Student in System Development Technical education \
 
 </div>
 
-<div align="center">
-<a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="530" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
-</div>
+
