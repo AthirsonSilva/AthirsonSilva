@@ -46,11 +46,11 @@
 <br>
 <br>
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
+<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="320" alt="**AboutMe**-pic"/></a>
 
 🤓 **▸ Your daily dev inspiration:**
 
-  <img width='450' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img width='500' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 <br>
 <br>
