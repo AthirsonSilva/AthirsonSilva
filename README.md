@@ -37,11 +37,11 @@
 
 <br>
 
-**▸** 🔭 I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"
+**▸ 🔭 <i> I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"**
 
-**▸** 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022 
+**▸ 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
 
-**▸** 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other.
+**▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other. </i>**
 
 <br>
 <br>
@@ -80,7 +80,7 @@
    
   
 <div align="center">
-<a href="#"><img width="600" src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
+<a href="#"><img width="700" src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
 </div>  
   
  <br><br><br>
