@@ -83,6 +83,12 @@
 <a href="#"><img width="840" src="https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=dark&ring=e73737&currStreakNum=ffffff&hide_border=true&background=0E1118" alt="stats"></a>
 </div>  
   
+<br><br> 
+  
+<div align='center'>
+<img src='https://github-profile-trophy.vercel.app/?username=dybbuk555&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true'>
+</div>  
+  
  <br><br><br>
 
 ###
