@@ -19,7 +19,7 @@
 
 <div align='center'>
 
-  <a align='right' href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=📫%20Hello, %20World!&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=10"></a>
+  <a align='right' href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=✍️%20Hello, %20World!&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=10"></a>
   
 <img align='left' width='150px' height='25px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
 
@@ -39,24 +39,20 @@
 
 **▸** 🔭 I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"
 
-**▸** 🔭 I’m also studying systems development at "ETEC de Guaianazes"
+**▸** 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022 
 
-**▸** 📫 I have interest in software-engineering, well, back-end development to be more specific.
+**▸** 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other.
 
 <br>
 <br>
-
 
 <a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="360" alt="**AboutMe**-pic"/></a>
 
-🤓 **▸ In what I study for now:**
+🤓 **▸ Your daily dev inspiration:**
 
-- Algorithms & Programming Logic
-- Computer Architectures & Organization
-- Web development
-- Hibrid mobile applications development
-- Back-end development
+  <img width='550' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
+<br>
 <br>
 
 💬 **▸ Socials & Contacts:**
@@ -70,14 +66,6 @@
 </div>
   
 <br><br>
-  
-<div align='center'>
-  
-# ✍️ Random Dev Quote
-
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-</div>
   
 <h1 align="center">  Coding </h1>
 
