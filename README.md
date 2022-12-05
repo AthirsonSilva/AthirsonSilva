@@ -50,7 +50,7 @@
 
 🤓 **▸ Your daily dev inspiration:**
 
-  <img width='550' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+  <img width='450' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
 <br>
 <br>
