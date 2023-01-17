@@ -46,7 +46,7 @@
 <br>
 <br>
 
-<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="320" alt="**AboutMe**-pic"/></a>
+<a href="https://app.daily.dev/athirson_silva"><img align='right' src="https://api.daily.dev/devcards/8806e51d442b4541836f90ab24b7e173.png?r=efc" width="280" alt="Athirson Silva's Dev Card"/></a>
 
 🤓 **▸ Your daily dev inspiration:**
 
