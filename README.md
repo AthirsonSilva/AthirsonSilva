@@ -80,9 +80,9 @@
   
 <br><br> 
   
-<div align='center'>
+<!-- <div align='center'>
 <img src='https://github-profile-trophy.vercel.app/?username=dybbuk555&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true'>
-</div>  
+</div> -->  
   
  <br><br><br>
 
