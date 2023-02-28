@@ -95,14 +95,13 @@
 <div align='center'>
   <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-   <img margin="auto 20px auto 20px" align="center" alt="PyCharm" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-plain-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="SQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-
+  <img margin="auto 20px auto 20px" align="center" alt="Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="MSSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
+    <img margin="auto 20px auto 20px" align="center" alt="PostgreSQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
+  
 <br>
 
 ##
@@ -119,8 +118,6 @@
   <img margin="auto 20px auto 20px" align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Gimp" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="PhotoShop" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-line.svg" />
 
 <br>
 
@@ -130,9 +127,11 @@
 
   <img margin="auto 20px auto 20px" align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img margin="auto 20px auto 20px" align="center" alt="Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
     <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
+  <img margin="auto 20px auto 20px" align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
         <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
 
 </div>
