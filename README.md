@@ -17,16 +17,6 @@
 
 <div>
 
-<div align='center'>
-
-<a align='right' href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.demolab.com/?lines=✍️%20Hello, %20World!&font=Fira%20Code&width=1000&height=45&color=f75c7e&vCenter=true&size=20&pause=10"></a>
-
-<img align='left' width='150px' height='25px' src="https://komarev.com/ghpvc/?username=athirsonsilva&color=blue" alt="athirsonsilva-profileviews">
-
-</div>
-
-<br>
-
 <h1 align='center'>About me</h1>
 
 ###
@@ -46,7 +36,7 @@
 <br>
 <br>
 
-<a href="https://app.daily.dev/athirson_silva"><img align='right' src="https://api.daily.dev/devcards/8806e51d442b4541836f90ab24b7e173.png?r=efc" width="280" alt="Athirson Silva's Dev Card"/></a>
+<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="320" alt="**AboutMe**-pic"/></a>
 
 🤓 **▸ Your daily dev inspiration:**
 
@@ -74,17 +64,11 @@
 </header>
   
  <div align="center">
-  <img height="128em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118"/>
-  <img height="128em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118"/>
 </div>
   
 <br><br> 
-  
-<!-- <div align='center'>
-<img src='https://github-profile-trophy.vercel.app/?username=dybbuk555&locale=en&row=1&theme=darkhub&margin-w=15&no-frame=true'>
-</div> -->  
-  
- <br><br><br>
 
 ###
 
