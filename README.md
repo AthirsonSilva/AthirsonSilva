@@ -27,16 +27,13 @@
 
 <br>
 
-**▸ 🔭 <i> I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"**
-
-**▸ 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
-
-**▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other. </i>**
+🔭 **▸ I love to build things that live on the internet, mainly on the server-side, from RESTful APIs, GraphQL applications, Websocket and Microservices, or anything in between. My goal is to always build products that provide value to other people. </i>**
 
 <br>
 <br>
-
-<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="300" alt="**AboutMe**-pic"/></a>
+  
+  
+<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" width="300" alt="**AboutMe**-pic"/></a>
 
 🤓 **▸ Your daily dev inspiration:**
 
@@ -57,6 +54,19 @@
   
 <br><br>
   
+  🏫 **▸ Education:**
+  
+  <div align='justify' style='margin-left: 40px;'>
+    
+  | Degree              | Institution | Duration | Course |
+  | :---------------- | :------ | :----: | :-----: |
+  | Technical |  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a> **ETEC (Etec de Guainaazes)** <br> `(Guaianazes/ SP)` | <i>Feb. 2019</i> - <i>Dec. 2022</i> | System Development |
+  | Technologist | <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a> **UNINOVE (Universidade Nove de Julho)** <br> `(Barra-funda/ SP)` | <i>Jul. 2021</i> - <i>currently now...</i> | System Analysis and Development |
+
+  </div>
+  
+<br><br>
+  
 <h1 align="center">  Coding </h1>
 
 <header>
@@ -64,122 +74,27 @@
 </header>
   
  <div align="center">
-  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118"/>
-  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=chartreuse-dark&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html&title_color=00ffe5&icon_color=e73737&border_color=0e1118&bg_color=0e1118"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&border_color=14082b&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
+  <img height="152em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&border_color=14082b&layout=compact&langs_count=6&include=private&theme=radical&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
+  <img height="184em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" />
 </div>
   
 <br><br> 
-
-###
-
+  
 <h1 align='center'>Technologies and tools</h1>
 
-<div align='center'>
-
-<div align='center'>
-  <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="MSSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="PostgreSQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
-  
-<br>
-
-##
-
-<br>
-
-</div>
-
-<div align='center'>
-
-  <img margin="auto 20px auto 20px" align="center" alt="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-   <img margin="auto 20px auto 20px" align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />      
-  <img margin="auto 20px auto 20px" align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" />
-
-<br>
-
-##
-
-<br>
-
-  <img margin="auto 20px auto 20px" align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" />
-        <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-
-</div>
-
-<br>
-
-##
-
 <br>
 
 <div align='center'>
   
-  <img margin="auto 20px auto 20px" align="center" alt="VSCode" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Linux" height="50" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="NPM" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
-    <img margin="auto 20px auto 20px" align="center" alt="Yarn" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original-wordmark.svg" />
-  <img margin="auto 20px auto 20px" align="center" alt="Vim" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" />
+  | Related Area | Technologies |
+| :-------- | :-------: |
+| Backend |   <img margin="auto 20px auto 20px" align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />  <img margin="auto 20px auto 20px" align="center" alt="Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />  <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> |
+| Frontend | <img margin="auto 20px auto 20px" align="center" alt="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> |
+| Databases | <img margin="auto 20px auto 20px" align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="MSSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="PostgreSQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> |
+| DevOPS | <img margin="auto 20px auto 20px" align="center" alt="VSCode" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Linux" height="50" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Linux" height="50" width="60"   src="https://th.bing.com/th/id/R.c4748973556d0b29d1242b385e7d0def?rik=mLFsFfP0SlmvyA&riu=http%3a%2f%2fstafwag.github.io%2fblog%2fimages%2fArch-linux-logo.png&ehk=z646XaUJh6R2S05QiL2Y5w5EwMDG0hXjOQbC7wPxRGY%3d&risl=&pid=ImgRaw&r=0" /> <img margin="auto 20px auto 20px" align="center" alt="Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /> |
+| Data-science | <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> |  
   
 </div>
  
-<br><br><br>
-
-# Education
-
-###
-
-<div align='justify' style='margin-left: 40px;'>
-
-  <div style='margin-left: 10px;'>
-
-  <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
-  **UNINOVE (Universidade Nove de Julho) - Polo Memorial (Barra-funda/ SP) - Remoto/ EaD** \
-  [**UNINOVE - Polo Memorial (EaD)**](https://www.uninove.br/) • `Private University` \
-  Graduation in System Analysis and Development \
-  <i>Jul. 2021</i> - <i>currently now...</i>
-  <br/>
-
-  <a href="https://www.escol.as/192529-cosme-de-faria-major"><img src="./assets/major.jpg" align="left" width="94" height="94" alt="MAJOR-pic"/></a>
-  **E.E. Major Cosme de Faria (Escola Estadual Major Cosme De Faria) Guaianazes - SP** \
-  [**E.E. Major Cosme de Faria**](https://www.escol.as/192529-cosme-de-faria-major) • `School & High School` \
-  Student in School and High School \
-  <i>Feb. 2014</i> - <i>Dec. 2019</i>
-  <br/>
-
-  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
-  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
-  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
-  Student in Administration Technical education \
-  <i>Feb. 2019</i> - <i>Dec. 2020</i>
-  <br/>
-
-  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
-  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
-  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
-  Student in System Development Technical education \
-  <i>Feb. 2019</i> - <i>Dec. 2022</i>
-  <br/>
-
-  </div>
-  
-  ###
-
 </div>
