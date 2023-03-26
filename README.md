@@ -61,9 +61,9 @@
 </header>
 
 <div>
-  <img height="226em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&border_color=14082b&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="226em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&border_color=14082b&layout=compact&langs_count=6&include=private&theme=radical&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
-  <img height="272em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" />
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&border_color=14082b&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&border_color=14082b&layout=compact&langs_count=6&include=private&theme=radical&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
+  <img height="208em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" />
 </div>
   
 <br><br> 
