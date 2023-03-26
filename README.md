@@ -15,23 +15,14 @@
 🔗 • https://github.com/DarkBear0121
 -->
 
-<div>
-
-<h1 align='center'>About me</h1>
-
-###
-
-<div align="left">
-
-###
+### About me
+#
 
 <br>
 
 🔭 **▸ I love to build things that live on the internet, mainly on the server-side, from RESTful APIs, GraphQL applications, Websocket and Microservices, or anything in between. My goal is to always build products that provide value to other people. </i>**
 
-<br>
-<br>
-  
+<br><br>
   
 <a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" width="300" alt="**AboutMe**-pic"/></a>
 
@@ -39,12 +30,11 @@
 
   <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
-<br>
-<br>
+<br><br>
 
 💬 **▸ Socials & Contacts:**
 
-<div align='left'>
+<div>
     <a href="https://www.linkedin.com/in/athirson-s-a7723a191/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
 <a href="https://www.instagram.com/athirson.silv4/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
 <a href="https://www.facebook.com/athirson.silva.5891"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
@@ -55,33 +45,28 @@
 <br><br>
   
   🏫 **▸ Education:**
-  
-  <div align='justify' style='margin-left: 40px;'>
-    
+      
   | Degree              | Institution | Duration | Course |
   | :---------------- | :------ | :----: | :-----: |
   | Technical |  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a> **ETEC (Etec de Guainaazes)** <br> `(Guaianazes/ SP)` | <i>Feb. 2019</i> - <i>Dec. 2022</i> | System Development |
   | Technologist | <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a> **UNINOVE (Universidade Nove de Julho)** <br> `(Barra-funda/ SP)` | <i>Jul. 2021</i> - <i>currently now...</i> | System Analysis and Development |
-
-  </div>
   
 <br><br>
   
-<h1 align="center">  Coding </h1>
+### Coding
+#
 
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
-  
- <div align="center">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&border_color=14082b&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&border_color=14082b&layout=compact&langs_count=6&include=private&theme=radical&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
-  <img height="208em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" />
+
+<div>
+  <img height="226em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&border_color=14082b&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
+  <img height="226em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&border_color=14082b&layout=compact&langs_count=6&include=private&theme=radical&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
+  <img height="272em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" />
 </div>
   
 <br><br> 
-
-<div align='center'>
   
   | Related Area | Technologies |
 | :-------- | :-------: |
@@ -90,7 +75,4 @@
 | Databases | &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="MSSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="PostgreSQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> |
 | DevOPS | &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="VSCode" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Linux" height="50" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Linux" height="50" width="60"   src="https://th.bing.com/th/id/R.c4748973556d0b29d1242b385e7d0def?rik=mLFsFfP0SlmvyA&riu=http%3a%2f%2fstafwag.github.io%2fblog%2fimages%2fArch-linux-logo.png&ehk=z646XaUJh6R2S05QiL2Y5w5EwMDG0hXjOQbC7wPxRGY%3d&risl=&pid=ImgRaw&r=0" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /> |
 | Data-science | &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> |  
-  
-</div>
  
-</div>
