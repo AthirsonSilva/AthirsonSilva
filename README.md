@@ -93,6 +93,12 @@
 
 <br>
 
+<div align='center'>
+  <img src="https://github-profile-trophy.vercel.app/?username=athirsonsilva&row=1&column=6&theme=radical&margin-w=15&margin-h=15"/>
+</div>
+
+<br>
+
 ###
 
 # Technologies and tools
