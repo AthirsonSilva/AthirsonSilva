@@ -15,9 +15,6 @@
 🔗 • https://github.com/DarkBear0121
 -->
 
-<div>
-
-<div align="left">
 
 ###
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=%F0%9F%91%8B+Hi+there.+My+name+is+Athirson,+and+i+am+a+backend+dev)](https://git.io/typing-svg)
@@ -33,7 +30,6 @@
 **▸ 🔭 My hobbies are: League of Legends, Hip-hop, animes, work out, books, memes, coding. </i>**
 
 <br>
-<br>
 
 <a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="300" alt="**AboutMe**-pic"/></a>
 
@@ -41,7 +37,6 @@
 
   <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
-<br>
 <br>
 
 💬 **▸ Socials & Contacts:**
@@ -53,28 +48,54 @@
 <a href="mailto:athirsonarceus@gmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
 <a href="http://api.whatsapp.com/send?phone=5511957607177"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
 </div>
-  
-<br><br>
-  
-<h1 align="left">  Coding </h1>
 
+<br>
+
+# Education
+
+###
+
+  <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
+  **UNINOVE (Universidade Nove de Julho) - Polo Memorial (Barra-funda/ SP) - Remoto/ EaD** \
+  [**UNINOVE - Polo Memorial (EaD)**](https://www.uninove.br/) • `Private University` \
+  Graduation in System Analysis and Development \
+  <i>Jul. 2021</i> - <i>currently now...</i>
+  <br/>
+
+  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
+  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
+  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
+  Student in System Development Technical education \
+  <i>Feb. 2019</i> - <i>Dec. 2022</i>
+  <br/>
+  
+<br>
+  
+# Coding
+  
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
   
- <div align="left">
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_color=14082b"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=radical&border_color=14082b&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
-  <img height="208em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" />
-</div>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='520px' width="400px"/>
   
-<br><br> 
+<div align="left">
+<a href="#"><img width="400" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_color=14082b" alt="stats"></a>
+</div>  
+
+<div align="left">
+<a href="#"><img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=radical&border_color=14082b&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html" alt="stats"></a>
+</div>  
+
+<div align='left'>
+ <a href="#"><img width='400' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" alt="stats"></a>
+</div>
+
+<br>
 
 ###
 
-<h1 align='left'>Technologies and tools</h1>
-
-<div align='left'>
+# Technologies and tools
 
 >º
 >> #### Everyday (or almost) tools
@@ -147,49 +168,8 @@
 >> Inspired by [Andreyrvs's](https://github.com/Andreyrvs- "Click Me") awesome profile
 >
 >º
-  
+
+<a href="https://user-images.githubusercontent.com/76459155/190626822-07db797b-c700-49ba-acc6-9dbcc32ef235.png"><img align="center" src="https://user-images.githubusercontent.com/76459155/189621564-f03a3dc6-3ef8-404e-8bfc-17815b409f2a.png" align="center" width="530" height="75" alt="ThanksForVisiting-pic" /></a> &#8196; <a href="https://emoji.gg/emoji/1564-momijiwave"><img src="https://cdn3.emoji.gg/emojis/1564-momijiwave.png" width="48" height="48" alt="MomijiWave-emoji"></a>
 </div>
- 
-<br><br><br>
 
-# Education
-
-###
-
-<div align='justify' style='margin-left: 40px;'>
-
-  <div style='margin-left: 10px;'>
-
-  <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
-  **UNINOVE (Universidade Nove de Julho) - Polo Memorial (Barra-funda/ SP) - Remoto/ EaD** \
-  [**UNINOVE - Polo Memorial (EaD)**](https://www.uninove.br/) • `Private University` \
-  Graduation in System Analysis and Development \
-  <i>Jul. 2021</i> - <i>currently now...</i>
-  <br/>
-
-  <a href="https://www.escol.as/192529-cosme-de-faria-major"><img src="./assets/major.jpg" align="left" width="94" height="94" alt="MAJOR-pic"/></a>
-  **E.E. Major Cosme de Faria (Escola Estadual Major Cosme De Faria) Guaianazes - SP** \
-  [**E.E. Major Cosme de Faria**](https://www.escol.as/192529-cosme-de-faria-major) • `School & High School` \
-  Student in School and High School \
-  <i>Feb. 2014</i> - <i>Dec. 2019</i>
-  <br/>
-
-  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
-  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
-  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
-  Student in Administration Technical education \
-  <i>Feb. 2019</i> - <i>Dec. 2020</i>
-  <br/>
-
-  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
-  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
-  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
-  Student in System Development Technical education \
-  <i>Feb. 2019</i> - <i>Dec. 2022</i>
-  <br/>
-
-  </div>
   
-  ###
-
-</div>
