@@ -22,30 +22,24 @@
 
 🔭 **▸ I love to build things that live on the internet, mainly on the server-side, from RESTful APIs, GraphQL applications, Websocket and Microservices, or anything in between. My goal is to always build products that provide value to other people. </i>**
 
-<br><br>
-  
-<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" width="300" alt="**AboutMe**-pic"/></a>
-
-🤓 **▸ Your daily dev inspiration:**
-
-  <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
-
-<br><br>
-
-💬 **▸ Socials & Contacts:**
+<br>
 
 <div>
+  
+  <img align='left' width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+  <div align='right'>  
     <a href="https://www.linkedin.com/in/athirson-s-a7723a191/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
-<a href="https://www.instagram.com/athirson.silv4/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
-<a href="https://www.facebook.com/athirson.silva.5891"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
-<a href="mailto:athirsonarceus@gmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
-<a href="http://api.whatsapp.com/send?phone=5511957607177"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
-</div>
+    <a href="https://www.instagram.com/athirson.silv4/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
+    <a href="https://www.facebook.com/athirson.silva.5891"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
+    <a href="mailto:athirsonarceus@gmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
+    <a href="http://api.whatsapp.com/send?phone=5511957607177"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
+  </div>
+<div>
   
-<br><br>
+<br><br><br>
   
-  🏫 **▸ Education:**
-      
+  
   | Degree              | Institution | Duration | Course |
   | :---------------- | :------ | :----: | :-----: |
   | Technical |  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a> **ETEC (Etec de Guainaazes)** <br> `(Guaianazes/ SP)` | <i>Feb. 2019</i> - <i>Dec. 2022</i> | System Development |
