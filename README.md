@@ -15,58 +15,181 @@
 🔗 • https://github.com/DarkBear0121
 -->
 
-### About me
-#
-
-<br>
-
-🔭 **▸ I love to build things that live on the internet, mainly on the server-side, from RESTful APIs, GraphQL applications, Websocket and Microservices, or anything in between. My goal is to always build products that provide value to other people. </i>**
-
-<br>
-
 <div>
-  
-  <img align='left' width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
-  <div align='right'>  
+<div align="left">
+
+###
+# [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=%F0%9F%91%8B+Hi+there.+My+name+is+Athirson,+and+i+am+a+backend+dev)](https://git.io/typing-svg)
+
+<br>
+
+**▸ 🔭 <i> I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"**
+
+**▸ 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
+
+**▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other. </i>**
+
+**▸ 🔭 My hobbies are: League of Legends, Hip-hop, animes, work out, books, memes, coding. </i>**
+
+<br>
+<br>
+
+<a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="300" alt="**AboutMe**-pic"/></a>
+
+🤓 **▸ Your daily dev inspiration:**
+
+  <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
+
+<br>
+<br>
+
+💬 **▸ Socials & Contacts:**
+
+<div align='left'>
     <a href="https://www.linkedin.com/in/athirson-s-a7723a191/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"  width="40" height="40" alt="LinkedIn-icon"></a>&nbsp;&nbsp;
-    <a href="https://www.instagram.com/athirson.silv4/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
-    <a href="https://www.facebook.com/athirson.silva.5891"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
-    <a href="mailto:athirsonarceus@gmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
-    <a href="http://api.whatsapp.com/send?phone=5511957607177"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
-  </div>
-<div>
-  
-<br><br><br>
-  
-  
-  | Degree              | Institution | Duration | Course |
-  | :---------------- | :------ | :----: | :-----: |
-  | Technical |  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a> **ETEC (Etec de Guaianazes)** <br> `(Guaianazes/ SP)` | <i>Feb. 2019</i> - <i>Dec. 2022</i> | System Development |
-  | Technologist | <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a> **UNINOVE (Universidade Nove de Julho)** <br> `(Barra-funda/ SP)` | <i>Jul. 2021</i> - <i>currently now...</i> | System Analysis and Development |
+<a href="https://www.instagram.com/athirson.silv4/"><img src="https://cdn3.emoji.gg/emojis/6333-instagram.png" width="40" height="40" alt="Instagram-icon"></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/athirson.silva.5891"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="40" height="40" alt="Facebook-icon"></a>&nbsp;&nbsp;
+<a href="mailto:athirsonarceus@gmail.com"><img src="https://pngimg.com/uploads/email/email_PNG100738.png" width="40" height="40" alt="Outlook-icon"></a>&nbsp;&nbsp;
+<a href="http://api.whatsapp.com/send?phone=5511957607177"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
+</div>
   
 <br><br>
   
-### Coding
-#
+<h1 align="left">  Coding </h1>
 
 <header>
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
-
-<div>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&border_color=14082b&show_icons=true&count_private=true&include_all_commits=true&theme=radical"/>
-  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&border_color=14082b&layout=compact&langs_count=6&include=private&theme=radical&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
+  
+ <div align="left">
+  <img height="172em" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_color=14082b"/>
+  <img height="172em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=radical&border_color=14082b&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html"/>
   <img height="208em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" />
 </div>
   
 <br><br> 
+
+###
+
+<h1 align='left'>Technologies and tools</h1>
+
+<div align='left'>
+
+>º
+>> #### Everyday (or almost) tools
+>>
+>> [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)]()
+>> [![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)]()
+>> [![VsCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)]()
+>> [![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)]()
+>> [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white)]()
+>
+>> #### Terminal tools
+>>
+>> [![Alacritty](https://img.shields.io/badge/alacritty-F46D01?style=for-the-badge&logo=alacritty&logoColor=white)]()
+>> [![Starship](https://img.shields.io/badge/starship-DD0B78?style=for-the-badge&logo=starship&logoColor=white)]()
+>> [![Terminal](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)]()
+>> [![NeoVim](https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)]()
+>
+>> #### Front-end / Mobile
+>>
+>> [![Css 3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+>> [![HTML 5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
+>> [![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E")]()
+>> [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+>> [![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)]()
+>> [![Expo](https://img.shields.io/badge/Expo-1B1F23?style=for-the-badge&logo=expo&logoColor=white)]()
+>> [![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)]()
+>
+>> #### Back-end
+>>
+>> [![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)]()
+>> [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)](https://nodejs.org)
+>> [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/pt/)
+>> [![NestJS](https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)]()
+>> [![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)]()
+>> [![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)]()
+>> [![Spring Boot](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)]()
+>> [![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring-Security&logoColor=white)]()
+>> [![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)]()
+>> [![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)]()
+>> [![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)]()
+>> [![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)]()
+>> [![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com)
+>> [![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)](https://sequelize.org/)
+>> [![PrismaORM](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)]()
+>> [![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)]()
+>> [![JSON Web Token](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)](https://jwt.io/)
+>
+>> #### DevOps / Databases
+>>
+>> [![VMWare](https://img.shields.io/badge/VMware-231f20?style=for-the-badge&logo=VMware&logoColor=white)]()
+>> [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
+>> [![Railway](https://img.shields.io/badge/Railway-131415?style=for-the-badge&logo=railway&logoColor=white)](https://railway.app/)
+>> [![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)]()
+>> [![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)]()
+>> [![GH Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)]()
+>> [![CI/CD](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://docs.github.com/pt/actions)
+>> [![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)]()
+>> [![Mysql](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+>> [![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)]()
+>> [![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+>> [![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)]()
+>> [![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)]()
+>> [![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)]()
+>> [![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white)]()
+>> [![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)]()
+>> [![Maven](https://img.shields.io/badge/apache_maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white)]()
+>
+>> Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- "Click Me")
+>>
+>> Inspired by [Andreyrvs's](https://github.com/Andreyrvs- "Click Me") awesome profile
+>
+>º
   
-  | Related Area | Technologies |
-| :-------- | :-------: |
-| Backend |   <img margin="auto 20px auto 20px" align="center" alt="Java" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Php" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="NestJS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Express" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Node.js" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Spring" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Laravel" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" /> &nbsp;&nbsp; |
-| Frontend | <img margin="auto 20px auto 20px" align="center" alt="Typescript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="JavaScript" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" /> <img margin="auto 20px auto 20px" align="center" alt="React" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="HTML" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="CSS" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" /> <img margin="auto 20px auto 20px" align="center" alt="Bootstrap" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /> |
-| Databases | &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="MSSQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="MongoDB" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="PostgreSQL" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" /> |
-| DevOPS | &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="VSCode" height="50" width="60"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Linux" height="50" width="60"   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Linux" height="50" width="60"   src="https://th.bing.com/th/id/R.c4748973556d0b29d1242b385e7d0def?rik=mLFsFfP0SlmvyA&riu=http%3a%2f%2fstafwag.github.io%2fblog%2fimages%2fArch-linux-logo.png&ehk=z646XaUJh6R2S05QiL2Y5w5EwMDG0hXjOQbC7wPxRGY%3d&risl=&pid=ImgRaw&r=0" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Bash" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Docker" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Git" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Heroku" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/heroku/heroku-original-wordmark.svg" /> |
-| Data-science | &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Jupyter" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Pandas" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg" /> &nbsp;&nbsp; <img margin="auto 20px auto 20px" align="center" alt="Numpy" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" /> |  
+</div>
  
+<br><br><br>
+
+# Education
+
+###
+
+<div align='justify' style='margin-left: 40px;'>
+
+  <div style='margin-left: 10px;'>
+
+  <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
+  **UNINOVE (Universidade Nove de Julho) - Polo Memorial (Barra-funda/ SP) - Remoto/ EaD** \
+  [**UNINOVE - Polo Memorial (EaD)**](https://www.uninove.br/) • `Private University` \
+  Graduation in System Analysis and Development \
+  <i>Jul. 2021</i> - <i>currently now...</i>
+  <br/>
+
+  <a href="https://www.escol.as/192529-cosme-de-faria-major"><img src="./assets/major.jpg" align="left" width="94" height="94" alt="MAJOR-pic"/></a>
+  **E.E. Major Cosme de Faria (Escola Estadual Major Cosme De Faria) Guaianazes - SP** \
+  [**E.E. Major Cosme de Faria**](https://www.escol.as/192529-cosme-de-faria-major) • `School & High School` \
+  Student in School and High School \
+  <i>Feb. 2014</i> - <i>Dec. 2019</i>
+  <br/>
+
+  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
+  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
+  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
+  Student in Administration Technical education \
+  <i>Feb. 2019</i> - <i>Dec. 2020</i>
+  <br/>
+
+  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
+  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
+  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
+  Student in System Development Technical education \
+  <i>Feb. 2019</i> - <i>Dec. 2022</i>
+  <br/>
+
+  </div>
+  
+  ###
+
+</div>
