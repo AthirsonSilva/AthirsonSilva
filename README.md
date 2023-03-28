@@ -77,18 +77,18 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 </header>
   
-  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='520px' width="400px"/>
+  <img align="right" alt="GIF" src="https://raw.githubusercontent.com/rahul-jha98/rahul-jha98/main/techstack.gif" height='500px' width="390px"/>
   
 <div align="left">
-<a href="#"><img width="400" src="https://github-readme-stats.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border_color=14082b" alt="stats"></a>
+<img width="400" src="https://github-readme-stats-sigma-five.vercel.app/api?username=athirsonsilva&show_icons=true&count_private=true&include_all_commits=true&theme=radical&border=14082b" alt="stats">
 </div>  
 
 <div align="left">
-<a href="#"><img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=radical&border_color=14082b&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html" alt="stats"></a>
+<img width='400' src="https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&langs_count=6&include=private&theme=radical&border_color=14082b&hide=jupyter%20notebook,makefile,c%2B%2B,cmake,hack,shell,css,html" alt="stats">
 </div>  
 
 <div align='left'>
- <a href="#"><img width='400' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=14082b&theme=radical" alt="stats"></a>
+ <img width='400' src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&border_color=ffffff&theme=radical" alt="stats">
 </div>
 
 <br>
