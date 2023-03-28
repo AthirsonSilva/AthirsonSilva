@@ -42,7 +42,7 @@
   
   | Degree              | Institution | Duration | Course |
   | :---------------- | :------ | :----: | :-----: |
-  | Technical |  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a> **ETEC (Etec de Guainaazes)** <br> `(Guaianazes/ SP)` | <i>Feb. 2019</i> - <i>Dec. 2022</i> | System Development |
+  | Technical |  <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a> **ETEC (Etec de Guaianazes)** <br> `(Guaianazes/ SP)` | <i>Feb. 2019</i> - <i>Dec. 2022</i> | System Development |
   | Technologist | <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a> **UNINOVE (Universidade Nove de Julho)** <br> `(Barra-funda/ SP)` | <i>Jul. 2021</i> - <i>currently now...</i> | System Analysis and Development |
   
 <br><br>
