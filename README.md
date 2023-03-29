@@ -13,6 +13,7 @@
 🔗 • https://getemoji.com
 🔗 • https://github.com/juletopi/juletopi
 🔗 • https://github.com/DarkBear0121
+🔗 • https://github.com/Andreyrvs
 -->
 
 
@@ -171,7 +172,7 @@
 >
 >> Badges by [alexandresanlim](https://github.com/alexandresanlim/Badges4-README.md-Profile#-database- "Click Me")
 >>
->> Inspired by [Andreyrvs's](https://github.com/Andreyrvs- "Click Me") awesome profile
+>> Inspired by [Andreyrvs's](https://github.com/Andreyrvs "Click Me") awesome profile
 >
 >º
 
