@@ -16,11 +16,8 @@
 🔗 • https://github.com/Andreyrvs
 -->
 
-
 ###
 # [![Typing SVG](https://readme-typing-svg.demolab.com?font=Indie+Flower&size=40&pause=1000&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=%F0%9F%91%8B+Hi+there.+My+name+is+Athirson,+and+i+am+a+backend+dev)](https://git.io/typing-svg)
-
-<br>
 
 **▸ 🔭 <i> I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"**
 
@@ -38,8 +35,6 @@
 
   <img width='425' src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 
-<br>
-
 💬 **▸ Socials & Contacts:**
 
 <div align='left'>
@@ -50,25 +45,21 @@
 <a href="http://api.whatsapp.com/send?phone=5511957607177"><img src="https://cdn3.emoji.gg/emojis/6158-whatsapp.png" width="40" height="40" alt="WhatsApp-icon"></a>&nbsp;&nbsp;
 </div>
 
-<br>
-
 # Education
 
 ###
 
   <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
-  **UNINOVE (Universidade Nove de Julho) - Polo Memorial (Barra-funda/ SP) - Remoto/ EaD** \
-  [**UNINOVE - Polo Memorial (EaD)**](https://www.uninove.br/) • `Private University` \
+  **UNINOVE (Universidade Nove de Julho)** \
   Graduation in System Analysis and Development \
   <i>Jul. 2021</i> - <i>currently now...</i>
-  <br/>
+  
+  <br>
 
   <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
-  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes) Guaianazes - SP** \
-  [**Etec de Guaianazes**](https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/) • `High School & technical education` \
+  **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes)** \
   Student in System Development Technical education \
   <i>Feb. 2019</i> - <i>Dec. 2022</i>
-  <br/>
   
 <br>
   
