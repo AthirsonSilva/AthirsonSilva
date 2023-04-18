@@ -22,6 +22,8 @@
 **▸ 🔭 <i> I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"**
 
 **▸ 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
+  
+**▸ 🔭 I’m currently as a Software Developer Intern at ITM Channel Marketing**
 
 **▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other.**
 
