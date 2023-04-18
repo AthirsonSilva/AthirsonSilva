@@ -23,7 +23,7 @@
 
 **▸ 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
   
-**▸ 🔭 I’m currently as a Software Developer Intern at ITM Channel Marketing**
+**▸ 🔭 I’m currently working as a Software Developer Intern at ITM Marketing**
 
 **▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other.**
 
