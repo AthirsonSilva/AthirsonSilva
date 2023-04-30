@@ -23,13 +23,13 @@
 
 **▸ 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
   
-**▸ 🔭 I’m currently working as a Software Developer Intern at ITM Marketing. **
+**▸ 🔭 I’m currently working as a Software Developer Intern at ITM Marketing.**
 
-**▸ 🔭 I am working using mainly Java, Spring Boot, JSPs and soon enough i will be uding React aswell. **
+**▸ 🔭 I am working using mainly Java, Spring Boot, JSPs and soon enough i will be uding React aswell.**
 
 **▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other.**
 
-**▸ 🔭 I love to build things that live on the internet, mainly on the server-side, from RESTful APIs, GraphQL applications, Websocket and Microservices, or anything in between. My goal is to always build products that provide value to other people.**
+**▸ 🔭 I enjoy crafting digital products that thrive on the internet, particularly on the server-side. I specialize in developing RESTful APIs, GraphQL applications, Websocket, and Microservices, among other things. My ultimate objective is to design and create products that deliver real value to users.**
 
 **▸ 🔭 My hobbies are: League of Legends, Hip-hop, animes, work out, books, memes, coding. </i>**
 
