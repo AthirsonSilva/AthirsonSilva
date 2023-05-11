@@ -25,7 +25,7 @@
   
 **▸ 🔭 I’m currently working as a Software Developer Intern at ITM Marketing.**
 
-**▸ 🔭 I am working using mainly Java, Spring Boot, JSPs and soon enough i will be uding React aswell.**
+**▸ 🔭 I am working using mainly Java, Spring Boot, JSPs, Hibernate and SQL Server and soon enough i will be using React and MongoDB aswell.**
 
 **▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other.**
 
