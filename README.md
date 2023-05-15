@@ -21,17 +21,17 @@
 
 **▸ 🔭 <i> I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"**
 
-**▸ 🔭 I’m also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
+**▸ 🔭 I also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
   
-**▸ 🔭 I’m currently working as a Software Developer Intern at ITM Marketing.**
+**▸ 🔭 At present, I hold the position of Software Developer Intern at ITM Marketing. **
 
-**▸ 🔭 I am working using mainly Java, Spring Boot, JSPs, Hibernate and SQL Server and soon enough i will be using React and MongoDB aswell.**
+**▸ 🔭 My current work primarily revolves around Java, Spring Boot, JSPs, Hibernate, and SQL Server. In the near future, I will also incorporate React and MongoDB into my skillset.**
 
-**▸ 🔭 I can build both hibrid mobile apps, websites and servers/ APIs and make them communicate with each other.**
+**▸ 🔭 Engaging with Hip-hop music, enjoying anime and manga, exercising, reading books, appreciating memes, conversing with like-minded individuals, and engaging in extensive coding.**
 
 **▸ 🔭 I enjoy crafting digital products that thrive on the internet, particularly on the server-side. I specialize in developing RESTful APIs, GraphQL applications, Websocket, and Microservices, among other things. My ultimate objective is to design and create products that deliver real value to users.**
 
-**▸ 🔭 My hobbies are: League of Legends, Hip-hop, animes, work out, books, memes, coding. </i>**
+**▸ 🔭 Engaging with Hip-hop music, enjoying anime and manga, exercising, reading books, appreciating memes, conversing with like-minded individuals, and engaging in extensive coding. </i>**
 
 <br><br>
 
