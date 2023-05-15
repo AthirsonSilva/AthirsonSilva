@@ -23,7 +23,7 @@
 
 **▸ 🔭 I also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
   
-**▸ 🔭 At present, I hold the position of Software Developer Intern at ITM Marketing. **
+**▸ 🔭 At present, I hold the position of Software Developer Intern at ITM Marketing.**
 
 **▸ 🔭 My current work primarily revolves around Java, Spring Boot, JSPs, Hibernate, and SQL Server. In the near future, I will also incorporate React and MongoDB into my skillset.**
 
