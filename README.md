@@ -33,7 +33,7 @@
 
 **▸ 🔭 Engaging with Hip-hop music, enjoying anime and manga, exercising, reading books, appreciating memes, conversing with like-minded individuals, and engaging in extensive coding. </i>**
 
-<br><br>
+<br><br><br>
 
 <a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="300" alt="self"/></a>
 
