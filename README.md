@@ -16,24 +16,17 @@
 🔗 • https://github.com/Andreyrvs
 -->
 
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Athirson,+and+i+am+a+backend+dev)
+
+| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=athirsonsilva&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
+| ----------- | ----------- |
+| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&theme=radical) |
+| ![Trophies](https://github-profile-trophy.vercel.app/?username=athirsonsilva&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=athirsonsilva&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
+
+<br><br>
+
 ###
-# ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=29&pause=1500&weight=900&duration=3500&color=FFFFFF&background=FFFFFF00&vCenter=true&width=1000&height=60&lines=✌️+Hi+there.+My+name+is+Athirson,+and+i+am+a+backend+dev)
-
-**▸ 🔭 <i> I’m currently studying System Analysis and Development at "Universidade Nove de Julho (UNINOVE)"**
-
-**▸ 🔭 I also studied systems development at "ETEC de Guaianazes" from August/ 2021 to December/ 2022**
-  
-**▸ 🔭 At present, I hold the position of Software Developer Intern at ITM Marketing.**
-
-**▸ 🔭 My current work primarily revolves around Java, Spring Boot, JSPs, Hibernate, and SQL Server. In the near future, I will also incorporate React and MongoDB into my skillset.**
-
-**▸ 🔭 Engaging with Hip-hop music, enjoying anime and manga, exercising, reading books, appreciating memes, conversing with like-minded individuals, and engaging in extensive coding.**
-
-**▸ 🔭 I enjoy crafting digital products that thrive on the internet, particularly on the server-side. I specialize in developing RESTful APIs, GraphQL applications, Websocket, and Microservices, among other things. My ultimate objective is to design and create products that deliver real value to users.**
-
-**▸ 🔭 Engaging with Hip-hop music, enjoying anime and manga, exercising, reading books, appreciating memes, conversing with like-minded individuals, and engaging in extensive coding. </i>**
-
-<br><br><br>
 
 <a href="https://github.com/athirsonsilva"><img align="right" src="https://user-images.githubusercontent.com/84593887/203847539-bc523fe3-dd58-481e-9bee-dceba1de2aaf.png" align="left" width="300" alt="self"/></a>
 
@@ -65,17 +58,7 @@
   <i>Feb. 2019</i> - <i>Dec. 2022</i>
   
 <br>
-  
-## Coding
 
-| ![Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=athirsonsilva&layout=compact&theme=radical&&hide=jupyter%20notebook,php,makefile,c%2B%2B,cmake,hack,shell,html,css&langs_count=6&hide_border=True&line_height=20&PAT_1) | ![Athirson's GitHub stats](https://github-readme-stats.vercel.app/api?username=athirsonsilva&include=private&theme=radical&show_icons=true&hide_border=True&line_height=20&PAT_1) |
-| ----------- | ----------- |
-| ![GitHub Commits](https://github-readme-streak-stats.herokuapp.com/?user=athirsonsilva&theme=radical&ring=e73737&currStreakNum=ffffff&hide_border=true) | ![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=athirsonsilva&theme=radical) |
-| ![Trophies](https://github-profile-trophy.vercel.app/?username=athirsonsilva&row=1&column=6&theme=radical&margin-w=15&margin-h=15) | ![Trophies](https://github-profile-trophy.vercel.app/?username=athirsonsilva&row=1&column=6&theme=radical&margin-w=15&margin-h=15) |
-
-<br>
-
-###
 
 ## Technologies and tools
 
