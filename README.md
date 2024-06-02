@@ -47,14 +47,14 @@
   <a href="https://www.uninove.br/"><img src="./assets/uninove.png" align="left" width="94" height="94" alt="UNINOVE-pic"/></a>
   **UNINOVE (Universidade Nove de Julho)** \
   Graduation in System Analysis and Development \
-  <i>Jul. 2021</i> - <i>currently now...</i>
+  <i>Jul. 2021</i> - <i>Dec. 2023...</i>
   
   <br>
 
   <a href="https://www.cps.sp.gov.br/etecs/etec-de-guaianazes-guaianazes/"><img src="./assets/etec.jpg" align="left" width="94" height="94" alt="ETEC-pic"/></a>
   **CPS Etec (Centro de educação Paula Souza - Etec de Guaianazes)** \
   Student in System Development Technical education \
-  <i>Feb. 2019</i> - <i>Dec. 2022</i>
+  <i>Feb. 2021</i> - <i>Dec. 2022</i>
   
 <br>
 
